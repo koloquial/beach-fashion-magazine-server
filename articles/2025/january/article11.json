@@ -1,0 +1,73 @@
+{
+    "type": "quiz",
+    "title": "What’s Your Beach Vibe? Discover Your Shore Style!",
+    "author": "Poppy Palmtree",
+    "introduction": "OMG, babes, it’s time to find out who you *really* are at the beach! Are you a glam queen, a zen goddess, or the sporty MVP? Grab a smoothie, sit back, and let’s dive into this totally fun quiz to uncover your ultimate beachy persona. Ready? Let’s go! 🌴",
+    "questions": [
+      {
+        "question": "It’s beach day! What’s your plan?",
+        "options": [
+          "a) Hosting a dance-off by the bonfire—duh!",
+          "b) Sprawling on a lounger with a stack of mags.",
+          "c) Catching waves or crushing a volleyball game.",
+          "d) Hunting for seashells and snapping artsy photos."
+        ]
+      },
+      {
+        "question": "What snack screams “beach vibes” to you?",
+        "options": [
+          "a) Pineapple smoothies with a side of neon straws.",
+          "b) A carefully packed bento box (because you’re fancy like that).",
+          "c) Trail mix—fuel for adventure, obvi.",
+          "d) A rustic picnic basket full of brie and baguettes."
+        ]
+      },
+      {
+        "question": "What’s your go-to beach outfit?",
+        "options": [
+          "a) A bright bikini with chunky gold hoops—I’m a *look*.",
+          "b) A classic one-piece and a chic sunhat.",
+          "c) A sporty rash guard and mirrored sunglasses.",
+          "d) A flowy, vintage-inspired sarong with handmade jewelry."
+        ]
+      },
+      {
+        "question": "What’s your idea of beach fun?",
+        "options": [
+          "a) Belting out songs with your squad at sunset.",
+          "b) Listening to soft waves while journaling.",
+          "c) Kayaking out to that tiny island in the distance.",
+          "d) Building the most Instagrammable sandcastle."
+        ]
+      },
+      {
+        "question": "What’s your dream time to hit the sand?",
+        "options": [
+          "a) Sunset—so romantic and sooo photogenic.",
+          "b) Mid-morning, with a cool breeze and fewer crowds.",
+          "c) Crack of dawn—let’s get the adrenaline pumping!",
+          "d) Late afternoon—soft light is perfect for artsy pics."
+        ]
+      }
+    ],
+    "results": {
+      "a": {
+        "title": "Beach Party Princess",
+        "description": "You’re the sparkle in every wave and the life of the shore! Bright bikinis, glitter sunscreen, and your infectious energy make you unforgettable. You bring the good vibes, the music, and the laughs. Your essentials? A killer playlist, a portable disco ball, and the confidence to own every photo op."
+      },
+      "b": {
+        "title": "Chill Mermaid",
+        "description": "Ahh, sweet serenity! You love the beach for its calming energy and natural beauty. Your style is effortless yet elegant, and your beach bag is filled with SPF, snacks, and a good novel. You’re the queen of finding inner peace by the waves. Never change, mellow babe!"
+      },
+      "c": {
+        "title": "Wave Chaser",
+        "description": "Adventure is your middle name! Whether it’s surfing, paddleboarding, or diving headfirst into beach volleyball, you’re always on the move. Your sporty vibe keeps everyone inspired. Don’t forget to pack your action cam and protein bars for your next seaside escapade."
+      },
+      "d": {
+        "title": "Artsy Sea Dreamer",
+        "description": "The ocean is your muse, and the beach is your canvas. From sand sculptures to dreamy photo shoots, you find beauty in every grain of sand. Vintage looks and natural textures define your style. Don’t forget your sketchpad, camera, and a touch of whimsy—you’re magic!"
+      }
+    },
+    "closing": "Now you know your beach vibe, it’s time to live it up! Snap your best beach moments, tag us @BeachFashionMag, and let’s see those amazing styles. Remember, babes, the beach is your runway. Shine on! 🌊✨"
+  }
+  

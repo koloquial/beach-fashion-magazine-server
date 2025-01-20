@@ -1,0 +1,47 @@
+{
+    "name": "Daisy Driftwood",
+    "profile": "/authors/daisy-driftwood.webp",
+    "personalDetails": {
+      "birthdate": "May 2, 2003",
+      "age": 21,
+      "height": "5'8\"",
+      "hairColor": "Golden brown with subtle honey highlights",
+      "appearance": "Daisy exudes a calm and grounded presence, with soft, wavy hair often styled with a braided headband or adorned with small flowers. Her warm hazel eyes and sun-kissed skin reflect her love for the outdoors. She prefers comfortable linen dresses, earthy tones, and always carries a touch of nature in her style."
+    },
+    "favorites": {
+      "food": "Grilled fish tacos with mango salsa",
+      "beachAccessory": "A wide-brimmed hat and a reusable water bottle for eco-conscious hydration"
+    },
+    "likesDislikes": {
+      "likes": [
+        "Reading by the shoreline",
+        "Planting wildflowers to attract pollinators",
+        "Sustainable fashion made from organic materials",
+        "Writing horoscopes under the stars"
+      ],
+      "dislikes": [
+        "Single-use plastics littering the beach",
+        "Unnecessary drama (nature is her escape!)",
+        "Being rushed through her morning tea ritual",
+        "Neglecting self-care in busy times"
+      ]
+    },
+    "turnOnsTurnOffs": {
+      "turnOns": [
+        "A deep connection with nature and the stars",
+        "Kindness and empathy in every interaction",
+        "A shared passion for sustainability and environmental care"
+      ],
+      "turnOffs": [
+        "A lack of respect for the planet",
+        "Superficial conversations with no depth",
+        "Overly flashy or wasteful lifestyles"
+      ]
+    },
+    "horoscope": {
+      "sign": "Taurus",
+      "message": "Find Your Center. Grounded Taurus, the beach is your haven this month. Opt for earthy tones in your beachwear, like sand-colored sarongs or sage-green swimsuits. A quiet sunrise walk will help you reset and connect with yourself."
+    },
+    "biographyStatement": "Hi, fellow stargazers! I’m Daisy Driftwood, your nature-loving guide to the stars and the sea. Writing for Beach Fashion Magazine lets me combine my passions for celestial rhythms, sustainability, and beachy vibes. My horoscopes are crafted to help you flow with life’s tides and align with the beauty of the natural world. When I’m not writing, you’ll find me planting wildflowers, walking barefoot by the water, or sipping herbal tea while watching the sunrise. Let’s journey together with intention, balance, and a touch of stardust. 🌙✨"
+  }
+  

@@ -1,0 +1,59 @@
+{
+    "type": "horoscope",
+    "title": "Your January Beach Horoscope: Flow with the Tides",
+    "author": "Daisy Driftwood",
+    "introduction": "The ocean and the stars have something in common: they both guide us if we’re willing to listen. As January begins, let the celestial rhythms inspire your beach style, energy, and intentions for the month. Here’s what the cosmos have to say:",
+    "horoscopes": {
+      "Aries": {
+        "dates": "March 21 - April 19",
+        "message": "Blaze Your Own Trail. This month, you’re all about bold moves. Whether it’s rocking a fiery red swimsuit or trying paddleboarding for the first time, let your adventurous spirit lead the way. Pair your confidence with gold accessories for an unstoppable vibe."
+      },
+      "Taurus": {
+        "dates": "April 20 - May 20",
+        "message": "Find Your Center. Grounded Taurus, the beach is your haven this month. Opt for earthy tones in your beachwear, like sand-colored sarongs or sage-green swimsuits. A quiet sunrise walk will help you reset and connect with yourself."
+      },
+      "Gemini": {
+        "dates": "May 21 - June 20",
+        "message": "Embrace Duality. Your charm is magnetic, Gemini! Try mix-and-match bikinis to show off your multifaceted personality. Plan a beach picnic with friends to share your bubbly energy—just don’t forget the SPF to protect your glowing skin."
+      },
+      "Cancer": {
+        "dates": "June 21 - July 22",
+        "message": "Ride the Emotional Waves. The moon rules your sign, and this month it’s calling you to embrace your nurturing side. Soft blues and whites in your wardrobe will reflect your inner calm. Spend time journaling by the water or collecting shells to create a calming ritual."
+      },
+      "Leo": {
+        "dates": "July 23 - August 22",
+        "message": "Shine Like the Sun. As a natural leader, all eyes are on you, Leo! Channel your energy with metallic swimwear that glistens in the sunlight. Host a beach bonfire and let your charisma light up the night. Remember, your confidence is your greatest asset."
+      },
+      "Virgo": {
+        "dates": "August 23 - September 22",
+        "message": "Simplify and Refresh. Practical and poised, Virgo, this is the month to declutter your beach bag and refresh your essentials. Minimalist swimsuits in neutral tones are your go-to. Spend time organizing—whether it’s your thoughts or your space—to feel more aligned."
+      },
+      "Libra": {
+        "dates": "September 23 - October 22",
+        "message": "Balance and Beauty. Harmony is your superpower, Libra, and it’s time to bring that balance to the shore. Think pastel swimwear and soft, flowy cover-ups. A sunset yoga session by the ocean will help you feel centered and gorgeous."
+      },
+      "Scorpio": {
+        "dates": "October 23 - November 21",
+        "message": "Dive Deep. This month, your intensity draws others to you. Dark, sultry swimwear—like deep purples or blacks—will mirror your mystery. Take a solo swim under the stars to reconnect with your powerful energy."
+      },
+      "Sagittarius": {
+        "dates": "November 22 - December 21",
+        "message": "Adventure Awaits. You’re the ultimate explorer, Sagittarius, and January is your time to shine. Sporty swimsuits that can keep up with your active lifestyle are key. Whether it’s snorkeling, surfing, or hiking coastal trails, let your free spirit guide you."
+      },
+      "Capricorn": {
+        "dates": "December 22 - January 19",
+        "message": "Timeless Elegance. Your classic style never goes unnoticed, Capricorn. A chic black one-piece paired with understated gold jewelry is your signature look. Use this month to set grounded intentions for the year—a journal session by the water will do wonders."
+      },
+      "Aquarius": {
+        "dates": "January 20 - February 18",
+        "message": "Break the Mold. Creative and unconventional, Aquarius, you’re all about making waves—literally and figuratively. Try bold, futuristic swimwear designs and let your eccentric energy shine. Use your time by the water to brainstorm your next big idea."
+      },
+      "Pisces": {
+        "dates": "February 19 - March 20",
+        "message": "Dream by the Shore. Your connection to water is unmatched, Pisces. Flowing fabrics and ocean-inspired hues will enhance your dreamy aura. Spend a quiet evening stargazing on the beach to recharge your creative spirit."
+      }
+    },
+    "closing": "This January, let the stars and the sea work together to guide your journey. Remember, like the tide, life flows best when you align with nature’s rhythm. Here’s to a magical month ahead—see you by the shore! 🌊✨",
+    "signature": "With love, Daisy"
+  }
+  

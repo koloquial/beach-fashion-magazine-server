@@ -1,0 +1,39 @@
+{
+    "name": "Coco Lune",
+    "profile": "/authors/coco-lune.webp",
+    "favorites": {
+      "food": "Dark chocolate-dipped strawberries",
+      "beachAccessory": "A sheer, moonlit shawl perfect for stargazing on breezy nights"
+    },
+    "likesDislikes": {
+      "likes": [
+        "Writing romantic stories under the stars",
+        "Exploring hidden beaches and coves",
+        "Collecting smooth, iridescent shells",
+        "Listening to the soft rhythm of the waves at night"
+      ],
+      "dislikes": [
+        "Bright, crowded beaches during peak hours",
+        "Losing track of time and missing moonrise",
+        "Overly bold colors that disrupt her serene aesthetic",
+        "People who don’t appreciate quiet, magical moments"
+      ]
+    },
+    "turnOnsTurnOffs": {
+      "turnOns": [
+        "A poetic soul with a love for the ocean",
+        "Candlelit picnics on the shore",
+        "Unexpected, thoughtful gestures like a handwritten note"
+      ],
+      "turnOffs": [
+        "Loud, chaotic environments that ruin the peace",
+        "Indifference to romance and whimsy",
+        "A lack of curiosity about the world’s hidden beauty"
+      ]
+    },
+    "horoscope": {
+      "sign": "Virgo"
+    },
+    "biographyStatement": "Hello, dreamers and romantics! I’m Coco Lune, your moonlit storyteller here to weave tales of love, mystery, and the ocean’s endless magic for Beach Fashion Magazine. My heart belongs to the quiet beauty of the night, where the stars inspire my writing and the waves sing their eternal songs. When I’m not crafting dreamy articles, you can find me wandering secluded beaches, penning love letters to the sea, or sipping cocoa while the moon rises. Let’s explore the shoreline’s hidden wonders and let our imaginations drift like the tides. 🌙✨"
+  }
+  

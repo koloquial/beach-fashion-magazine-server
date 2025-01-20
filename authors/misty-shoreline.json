@@ -1,0 +1,43 @@
+{
+    "name": "Misty Shoreline",
+    "profile": "/authors/misty-shoreline.webp",
+    "personalDetails": {
+      "birthdate": "November 12, 2004",
+      "age": 20
+    },
+    "favorites": {
+      "food": "Freshly baked coconut macaroons with a drizzle of dark chocolate",
+      "beachAccessory": "A leather-bound journal for capturing her thoughts and sketches of the ocean"
+    },
+    "likesDislikes": {
+      "likes": [
+        "Quiet, moonlit walks on the beach",
+        "Collecting sea glass in soft pastel hues",
+        "Writing poetry inspired by the waves",
+        "Discovering hidden tide pools"
+      ],
+      "dislikes": [
+        "Loud, overcrowded beaches",
+        "People who don’t respect the ocean’s beauty",
+        "Over-commercialized beachwear trends",
+        "Disruptions to her peaceful moments by the shore"
+      ]
+    },
+    "turnOnsTurnOffs": {
+      "turnOns": [
+        "A deep appreciation for nature’s beauty",
+        "Gentle, thoughtful conversations",
+        "Someone who enjoys stargazing and quiet moments"
+      ],
+      "turnOffs": [
+        "Rushing through life without savoring its details",
+        "Littering or being careless with the environment",
+        "A lack of curiosity or imagination"
+      ]
+    },
+    "horoscope": {
+      "sign": "Scorpio"
+    },
+    "biographyStatement": "Hello, kindred spirits! I’m Misty Shoreline, the dreamy, ocean-loving soul behind some of Beach Fashion Magazine’s most reflective and poetic pieces. The ocean has always been my sanctuary, inspiring everything from my wardrobe to my writing. I believe in finding beauty in the smallest details—a perfectly worn shell, the sound of waves lapping at night, or the colors of the sunset dancing on the horizon. Writing is my way of capturing the magic I see and sharing it with you. Let’s wander the shoreline together and uncover life’s quiet wonders. 🌊✨"
+  }
+  

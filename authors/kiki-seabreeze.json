@@ -1,0 +1,47 @@
+{
+    "name": "Kiki Seabreeze",
+    "profile": "/authors/kiki-seabreeze.webp",
+    "personalDetails": {
+      "birthdate": "July 9, 2004",
+      "age": 20,
+      "height": "5'4\"",
+      "hairColor": "Soft brown with sun-kissed caramel highlights",
+      "appearance": "Kiki has a natural beachy glow with her wavy hair often tied in a loose braid. Her warm brown eyes and sunkissed complexion exude effortless charm. She’s frequently spotted wearing flowy dresses and vintage-inspired jewelry that mirrors her dreamy personality."
+    },
+    "favorites": {
+      "food": "Fresh mango slices sprinkled with a touch of chili powder",
+      "beachAccessory": "A wide-brimmed straw hat adorned with a vintage scarf"
+    },
+    "likesDislikes": {
+      "likes": [
+        "Collecting vintage postcards",
+        "Stargazing on quiet beach nights",
+        "Writing heartfelt letters",
+        "Picnics with soft jazz playing in the background"
+      ],
+      "dislikes": [
+        "Crowded beaches",
+        "Plastic waste polluting the shore",
+        "Forgetting sunscreen on a sunny day",
+        "Rushed mornings without tea"
+      ]
+    },
+    "turnOnsTurnOffs": {
+      "turnOns": [
+        "Thoughtful gestures, like finding a perfect seashell for her",
+        "A sense of humor that’s a mix of clever and silly",
+        "Passion for sustainability and preserving the ocean"
+      ],
+      "turnOffs": [
+        "A lack of curiosity about the world",
+        "People who don’t appreciate quiet moments",
+        "Over-the-top displays of arrogance"
+      ]
+    },
+    "horoscope": {
+      "sign": "Cancer",
+      "message": "Ride the Emotional Waves. The moon rules your sign, and this month it’s calling you to embrace your nurturing side. Soft blues and whites in your wardrobe will reflect your inner calm. Spend time journaling by the water or collecting shells to create a calming ritual."
+    },
+    "biographyStatement": "Hi there, beach dreamers! I’m Kiki Seabreeze, your vintage-loving, starlit-sky-gazing romantic here to help you find the beauty in every shoreline moment. Growing up near the coast, I’ve always felt the ocean holds a little magic for anyone willing to listen. Writing for Beach Fashion Magazine lets me share my love for timeless style, dreamy dates, and creating memories that feel like they belong in a love letter. Whether I’m collecting shells or penning my next story, I believe life is best lived with a little nostalgia and a lot of heart. 🌊✨"
+  }
+  

@@ -1,0 +1,47 @@
+{
+    "name": "Mia Blossom",
+    "profile": "/authors/mia-blossom.webp",
+    "personalDetails": {
+      "birthdate": "February 14, 2004",
+      "age": 21,
+      "height": "5'5\"",
+      "hairColor": "Honey blonde with soft, golden highlights",
+      "appearance": "Mia radiates warmth and positivity with her bright hazel eyes and glowing complexion. Her hair is often styled in loose waves adorned with small flower clips. She loves colorful sundresses, floral prints, and strappy sandals that reflect her cheerful and creative personality."
+    },
+    "favorites": {
+      "food": "Fresh fruit parfaits with granola and honey",
+      "beachAccessory": "A flower crown made of real blooms"
+    },
+    "likesDislikes": {
+      "likes": [
+        "Visiting vibrant beachside markets",
+        "Interviewing creative, inspiring people",
+        "DIY projects, like making flower-pressed jewelry",
+        "Sunrises that paint the sky with pastel colors"
+      ],
+      "dislikes": [
+        "Grey, cloudy beach days",
+        "Fast fashion that harms the environment",
+        "When her flowers wilt too quickly",
+        "Negativity that stifles creativity"
+      ]
+    },
+    "turnOnsTurnOffs": {
+      "turnOns": [
+        "Kindness and generosity of spirit",
+        "A love for nature and colorful, vibrant aesthetics",
+        "Spontaneous adventures, like finding hidden garden cafes"
+      ],
+      "turnOffs": [
+        "Cynicism and lack of curiosity",
+        "People who disregard the beauty of small, meaningful details",
+        "Wastefulness and indifference to sustainability"
+      ]
+    },
+    "horoscope": {
+      "sign": "Aquarius",
+      "message": "Break the Mold. Creative and unconventional, Aquarius, you’re all about making waves—literally and figuratively. Try bold, futuristic swimwear designs and let your eccentric energy shine. Use your time by the water to brainstorm your next big idea."
+    },
+    "biographyStatement": "Hi, lovelies! I’m Mia Blossom, your cheerful, flower-obsessed storyteller, here to share all the vibrant, creative, and heartwarming stories for Beach Fashion Magazine. Growing up near a colorful beachside town, I’ve always been inspired by the beauty of nature and the people who create magic from it. Whether I’m interviewing a local artisan or making a new DIY project, my goal is to spread joy and inspiration like petals on the wind. Let’s explore the world with bright eyes, open hearts, and a splash of creativity. 🌸✨"
+  }
+  

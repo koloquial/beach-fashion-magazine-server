@@ -1,0 +1,47 @@
+{
+    "name": "Poppy Palmtree",
+    "profile": "/authors/poppy-palmtree.webp",
+    "personalDetails": {
+      "birthdate": "March 3, 2005",
+      "age": 19,
+      "height": "5'5\"",
+      "hairColor": "Bright strawberry blonde with playful pink streaks",
+      "appearance": "Poppy is a ball of energy with a vibrant smile that’s as sunny as her name. Her hair is often styled in messy braids or a high ponytail, and she’s never without her signature sparkly lip gloss. She loves bold prints and funky sunglasses that reflect her lively and creative spirit."
+    },
+    "favorites": {
+      "food": "Rainbow sherbet in a waffle cone",
+      "beachAccessory": "Oversized heart-shaped sunglasses in neon colors"
+    },
+    "likesDislikes": {
+      "likes": [
+        "Hosting beach karaoke parties",
+        "DIY fashion projects with friends",
+        "Finding quirky seashells for her collection",
+        "Dancing barefoot in the sand"
+      ],
+      "dislikes": [
+        "Rainy days when she can’t hit the beach",
+        "Plain and boring outfits",
+        "People who don’t dance at parties",
+        "Losing her favorite sunglasses (again)"
+      ]
+    },
+    "turnOnsTurnOffs": {
+      "turnOns": [
+        "A killer sense of humor and someone who can make her laugh",
+        "Creative ideas for beach games and adventures",
+        "Confident energy that matches her enthusiasm"
+      ],
+      "turnOffs": [
+        "Negative vibes and party poopers",
+        "People who criticize her love for glitter",
+        "Being told to 'tone it down'—never happening!"
+      ]
+    },
+    "horoscope": {
+      "sign": "Pisces",
+      "message": "Dream by the Shore. Your connection to water is unmatched, Pisces. Flowing fabrics and ocean-inspired hues will enhance your dreamy aura. Spend a quiet evening stargazing on the beach to recharge your creative spirit."
+    },
+    "biographyStatement": "Hey, hey, hey, beach babes! I’m Poppy Palmtree, your fun-loving, glitter-obsessed party queen, here to bring the energy to Beach Fashion Magazine. Whether I’m belting out tunes at a beach karaoke or DIY-ing the cutest cover-up ever, life’s a celebration, and I’m always ready to bring the confetti. My vibe is all about living loud, laughing often, and rocking bold looks that turn heads. Let’s make every day a beach day, complete with sunshine, sparkle, and good vibes! 🌴✨"
+  }
+  
