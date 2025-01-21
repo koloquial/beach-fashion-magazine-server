@@ -8,11 +8,41 @@ const authors = require('./authors/index.js');
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors(origin: "https://beach-fashion-magazine.vercel.app/"));
 app.use(express.json());
 app.use('/images', express.static(path.join(__dirname, 'images'))); // Serve images
 
+// Helper function to generate a slug from a string
+const generateSlug = (str) => str.toLowerCase().replace(/\s+/g, '-');
 
+// Helper function to find an item by slug
+const findBySlug = (items, slug) => items.find((item) => generateSlug(item.title || item.name) === slug);
+
+// Generic route handler for articles
+const handleArticleRoute = (req, res, category) => {
+  const { slug } = req.params;
+  const article = findBySlug(january2025, slug);
+
+  console.log('Article:', article);
+
+  if (!article) {
+    return res.status(404).json({ error: 'Article not found' });
+  }
+
+  res.json(article);
+};
+
+// Generic route handler for authors
+const handleAuthorRoute = (req, res) => {
+  const { slug } = req.params;
+  const author = findBySlug(authors, slug);
+
+  if (!author) {
+    return res.status(404).json({ error: 'Author not found' });
+  }
+
+  res.json(author);
+};
 
 // Route: Get all articles
 app.get('/articles', (req, res) => {
@@ -21,111 +51,31 @@ app.get('/articles', (req, res) => {
 
 // Route: Get all authors
 app.get('/authors', (req, res) => {
-    res.json(authors);
-  });
+  res.json(authors);
+});
 
-// Route: Get a specific article by ID
-app.get('/articles/:slug', (req, res) => {
-    const { slug } = req.params;
+// Dynamic article category routes
+const categories = [
+  'music',
+  'interview',
+  'adventure',
+  'horoscope',
+  'gossip',
+  'romance',
+  'drama',
+  'movie',
+  'love',
+  'rumor',
+  'quiz',
+  'reflection'
+];
 
-    let article;
+categories.forEach((category) => {
+  app.get(`/${category}/:slug`, (req, res) => handleArticleRoute(req, res, category));
+});
 
-    for(let i = 0; i < january2025.length; i++){
-        let string = january2025[i].title.toLowerCase().replace(/\s+/g, '-');
-
-        if(string === slug){
-            article = january2025[i];
-        }
-    }
-  
-    if (!article) {
-      return res.status(404).json({ error: 'Article not found' });
-    }
-  
-    res.json(article);
-  });
-
-  // Route: Get a specific music article
-app.get('/music/:slug', (req, res) => {
-    const { slug } = req.params;
-
-    let article;
-
-    for(let i = 0; i < january2025.length; i++){
-        let string = january2025[i].title.toLowerCase().replace(/\s+/g, '-');
-
-        if(string === slug){
-            article = january2025[i];
-        }
-    }
-  
-    if (!article) {
-      return res.status(404).json({ error: 'Article not found' });
-    }
-  
-    res.json(article);
-  });
-
-  app.get('/interview/:slug', (req, res) => {
-    const { slug } = req.params;
-
-    let article;
-
-    for(let i = 0; i < january2025.length; i++){
-        let string = january2025[i].title.toLowerCase().replace(/\s+/g, '-');
-
-        if(string === slug){
-            article = january2025[i];
-        }
-    }
-  
-    if (!article) {
-      return res.status(404).json({ error: 'Article not found' });
-    }
-  
-    res.json(article);
-  });
-
-  app.get('/adventure/:slug', (req, res) => {
-    const { slug } = req.params;
-
-    let article;
-
-    for(let i = 0; i < january2025.length; i++){
-        let string = january2025[i].title.toLowerCase().replace(/\s+/g, '-');
-
-        if(string === slug){
-            article = january2025[i];
-        }
-    }
-  
-    if (!article) {
-      return res.status(404).json({ error: 'Article not found' });
-    }
-  
-    res.json(article);
-  });
-
-  // Route: Get a specific author
-app.get('/authors/:slug', (req, res) => {
-    const { slug } = req.params;
-
-    let author;
-
-    for(let i = 0; i < authors.length; i++){
-        let string = authors[i].name.toLowerCase().replace(/\s+/g, '-');
-
-        if(string === slug){
-            author = authors[i];
-        }
-    }
-  
-    if (!author) {
-      return res.status(404).json({ error: 'Author not found' });
-    }
-  
-    res.json(author);
-  });
+// Route: Get a specific author
+app.get('/authors/:slug', handleAuthorRoute);
 
 // Start the server
 const PORT = 5000;

@@ -1,7 +1,21 @@
 {
     "type": "horoscope",
     "title": "Your January Beach Horoscope: Flow with the Tides",
-    "author": "Daisy Driftwood",
+    "author": "Penny Driftwood",
+    "images": [
+      "/images/articles/2025/january/article4-0.webp",
+    "/images/articles/2025/january/article4-1.webp",
+  "/images/articles/2025/january/article4-2.webp",
+"/images/articles/2025/january/article4-3.webp",
+"/images/articles/2025/january/article4-4.webp",
+"/images/articles/2025/january/article4-5.webp",
+"/images/articles/2025/january/article4-6.webp",
+"/images/articles/2025/january/article4-7.webp",
+"/images/articles/2025/january/article4-8.webp",
+"/images/articles/2025/january/article4-9.webp",
+"/images/articles/2025/january/article4-10.webp",
+"/images/articles/2025/january/article4-11.webp",
+"/images/articles/2025/january/article4-12.webp"],
     "introduction": "The ocean and the stars have something in common: they both guide us if we’re willing to listen. As January begins, let the celestial rhythms inspire your beach style, energy, and intentions for the month. Here’s what the cosmos have to say:",
     "horoscopes": {
       "Aries": {
@@ -54,6 +68,6 @@
       }
     },
     "closing": "This January, let the stars and the sea work together to guide your journey. Remember, like the tide, life flows best when you align with nature’s rhythm. Here’s to a magical month ahead—see you by the shore! 🌊✨",
-    "signature": "With love, Daisy"
+    "signature": "With love, Penny"
   }
   
