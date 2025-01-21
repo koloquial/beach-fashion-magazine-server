@@ -1,46 +1,82 @@
 {
-    "name": "Sunny Starlette",
-    "profile": "/images/authors/sunny-starlette.webp",
-    "personalDetails": {
-      "birthdate": "April 15, 2005",
-      "age": 19,
-      "height": "5'6\"",
-      "hairColor": "Golden blonde with natural sun-kissed highlights",
-      "appearance": "Sunny has a bright and bubbly personality that matches her radiant smile. Her big, expressive blue eyes and freckled nose give her a youthful, approachable vibe. She's always seen with a touch of glitter on her cheeks and a beachy wave in her hair."
-    },
-    "favorites": {
-      "food": "Acai bowls with extra coconut and a drizzle of honey",
-      "beachAccessory": "Layered shell necklaces—because you can never have too much ocean-inspired bling"
-    },
-    "likesDislikes": {
-      "likes": [
-        "Glitter sunscreen (obviously)",
-        "Impromptu beach bonfires",
-        "Thrifting for vintage beachwear",
-        "Sunsets with pastel skies"
-      ],
-      "dislikes": [
-        "Sand sticking to everything",
-        "Overly complicated beauty routines",
-        "When the waves mess up her perfectly styled beach waves"
-      ]
-    },
-    "turnOnsTurnOffs": {
-      "turnOns": [
-        "Confidence that radiates like the sun",
-        "A great sense of humor (bonus points if you can make her laugh mid-photo shoot)",
-        "Spontaneous adventures, like midnight swims under the stars"
-      ],
-      "turnOffs": [
-        "Negative vibes—there’s no room for that in Sunny’s world",
-        "People who litter at the beach (seriously, protect the ocean!)",
-        "A lack of enthusiasm for glitter"
-      ]
-    },
-    "horoscope": {
-      "sign": "Aries",
-      "message": "Blaze Your Own Trail. This month, you’re all about bold moves. Whether it’s rocking a fiery red swimsuit or trying paddleboarding for the first time, let your adventurous spirit lead the way. Pair your confidence with gold accessories for an unstoppable vibe."
-    },
-    "biographyStatement": "Hey, babes! I’m Sunny Starlette, your go-to girl for all things beachy, sparkly, and fabulous. I grew up soaking up the California sun, and let me tell you—life by the waves is the ultimate vibe. Writing for Beach Fashion Magazine is like a dream come true because I get to share my love for beachwear, confidence, and glitter sunscreen with YOU. When I’m not typing away, you’ll find me hosting dance-offs on the sand, thrifting for vintage sunnies, or perfecting my one-leg pop pose (it’s iconic, trust me). Life’s too short not to sparkle—so let’s shine together! 🌴✨"
-  }
-  
+  "name": "Sunny Starlette",
+  "profile": "/images/authors/sunny-starlette.webp",
+  "personalDetails": {
+    "birthdate": "April 15, 2005",
+    "age": 19,
+    "height": "5'6\"",
+    "hometown": "Laguna Beach, California"
+  },
+  "favorites": {
+    "food": "Acai bowls with extra coconut and a drizzle of honey—because healthy can be delicious and cute!",
+    "drink": "Iced passion fruit lemonade with extra ice and a cute straw—hydration, but make it fashion.",
+    "dessert": "Key lime pie with extra whipped cream—it’s like summer on a plate, and who doesn’t love a little tangy sweetness?",
+    "music": "90s pop hits—because every beach day needs a killer throwback playlist to sing your heart out to!",
+    "game": "Beach volleyball—so fun, and you look sporty in your cutest bikini. Double win!",
+    "book": "Anything by Elin Hilderbrand—her books are like a beach day in paperback form.",
+    "movie": "Blue Crush—because, duh, surfer girl goals!"
+  },
+  "likesDislikes": {
+    "likes": [
+      "Glitter sunscreen—obviously!",
+      "Impromptu beach bonfires where everyone vibes together",
+      "Thrifting for vintage beachwear (I’m always on the hunt for cute sunnies!)",
+      "Sunsets with pastel skies—seriously, is there anything prettier?",
+      "DIY shell jewelry projects that make you feel like a mermaid",
+      "Sipping coconut water straight from the shell—it’s so tropical-chic!",
+      "Collecting sea glass and turning it into cute beachy decor"
+    ],
+    "dislikes": [
+      "Sand sticking to everything—ugh, the struggle is real.",
+      "Overly complicated beauty routines—who has time for that when there’s sun to soak up?",
+      "When the waves mess up my perfectly styled beach waves (but it’s worth it for the fun!)",
+      "Overcast days when the sun forgets to show up—hello, you had one job!",
+      "Crowded beaches that ruin the serene vibes",
+      "People who don’t believe in the magic of glitter (like, how?)"
+    ]
+  },
+  "turnOnsTurnOffs": {
+    "turnOns": [
+      "Confidence that radiates like the sun—shine on, babe!",
+      "A great sense of humor—bonus points if you can make me laugh mid-photo shoot!",
+      "Spontaneous adventures—midnight swims under the stars are the stuff of dreams.",
+      "Kindness—especially to animals and the ocean. Protect our waves, people!",
+      "Creative minds that bring out-of-the-box ideas to life. Let’s make magic together!"
+    ],
+    "turnOffs": [
+      "Negative vibes—nope, not in my world. Let’s keep it positive!",
+      "People who litter at the beach—seriously, pick up after yourself! Protect our oceans, please.",
+      "A lack of enthusiasm for glitter—like, how do you not love sparkle?",
+      "Rainy days that spoil a beach outing—can we not?",
+      "Anyone who underestimates my passion for fun and sparkle—because I’m living my truth!"
+    ]
+  },
+  "horoscope": {
+    "sign": "Aries—fire, passion, and adventure. That’s me in a nutshell!"
+  },
+  "personalityTraits": {
+    "coreTraits": [
+      "I’m optimistic and full of energy—like the human version of a sunny day!",
+      "Playful and always up for a laugh—I’ll probably challenge you to a dance-off at some point.",
+      "Creative—I love turning little beach treasures into DIY magic.",
+      "Fashion-savvy—I’m all about spotting the cutest trends for beach days and beyond.",
+      "Deeply passionate about ocean conservation—our beaches are everything, and we have to protect them!",
+      "Sociable—I thrive in group settings, whether it’s a bonfire or a beach volleyball match.",
+      "Adventurous—I’ll try anything once (and probably post it to my feed)."
+    ],
+    "quirkyTraits": [
+      "I can’t resist snapping a picture-perfect sunset—it’s my love language.",
+      "I always have a stash of glitter in my beach bag, just in case.",
+      "I speak fluent 'emoji' in my texts—because why not add some sparkle to your words?",
+      "I add a personal touch to everything, from my outfits to my bonfire playlists.",
+      "I love naming my favorite waves—like ‘Big Sparkle’ and ‘Sea Queen.’ They’re basically my besties."
+    ],
+    "motivations": [
+      "Making every day feel like a summer vacation—it’s a vibe, babe!",
+      "Spreading positivity and inspiring confidence—because life is too short not to love yourself.",
+      "Championing sustainability with my beach lifestyle—protecting our oceans is close to my heart.",
+      "Sharing the joy of beach fashion and fun with my readers—it’s the dream!"
+    ]
+  },
+  "statement": "Hey, babes! I’m Sunny Starlette, your go-to girl for all things beachy, sparkly, and fabulous. I grew up soaking up the California sun, and let me tell you—life by the waves is the ultimate vibe. Writing for Beach Fashion Magazine is like a dream come true because I get to share my love for beachwear, confidence, and glitter sunscreen with YOU. When I’m not typing away, you’ll find me hosting dance-offs on the sand, thrifting for vintage sunnies, or perfecting my one-leg pop pose (it’s iconic, trust me). Life’s too short not to sparkle—so let’s shine together! 🌴✨"
+}

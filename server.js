@@ -66,6 +66,46 @@ app.get('/music/:slug', (req, res) => {
     res.json(article);
   });
 
+  app.get('/interview/:slug', (req, res) => {
+    const { slug } = req.params;
+
+    let article;
+
+    for(let i = 0; i < january2025.length; i++){
+        let string = january2025[i].title.toLowerCase().replace(/\s+/g, '-');
+
+        if(string === slug){
+            article = january2025[i];
+        }
+    }
+  
+    if (!article) {
+      return res.status(404).json({ error: 'Article not found' });
+    }
+  
+    res.json(article);
+  });
+
+  app.get('/adventure/:slug', (req, res) => {
+    const { slug } = req.params;
+
+    let article;
+
+    for(let i = 0; i < january2025.length; i++){
+        let string = january2025[i].title.toLowerCase().replace(/\s+/g, '-');
+
+        if(string === slug){
+            article = january2025[i];
+        }
+    }
+  
+    if (!article) {
+      return res.status(404).json({ error: 'Article not found' });
+    }
+  
+    res.json(article);
+  });
+
   // Route: Get a specific author
 app.get('/authors/:slug', (req, res) => {
     const { slug } = req.params;
