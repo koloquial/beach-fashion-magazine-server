@@ -1,7 +1,9 @@
 {
-    "type": "album",
+    "type": "music",
     "title": "Dreams on the Horizon: Exploring Starlight Serenade’s Stunning New Album",
+    "date": "January 13, 2025, 10:00 AM PST",
     "author": "Kiki Seabreeze",
+    "images": ["/images/articles/2025/january/article2-1.webp", "/images/articles/2025/january/article2-2.webp"],
     "introduction": "Every once in a while, an album comes along that feels like a breath of fresh ocean air—gentle, invigorating, and impossible to forget. Starlight Serenade’s latest release, *Waves and Wishes*, is exactly that. This album is a shimmering collection of tracks that capture the beauty of love, the mystery of the ocean, and the golden light of endless summer days. It’s a soundtrack to daydreams and starlit nights, and trust me, you’ll want it on repeat all season long.",
     "sections": [
       {
