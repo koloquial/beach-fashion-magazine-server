@@ -98,10 +98,7 @@ categories.forEach((category) => {
 app.get('/authors/:slug', handleAuthorRoute);
 
 // // Start the Express server
-// const PORT = process.env.PORT || 3000;
-// app.listen(PORT, () => {
-//   console.log(`Server is running on port ${PORT}`);
-// });
-
-const serverless = require('serverless-http');
-module.exports = serverless(app);
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
