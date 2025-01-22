@@ -1,6 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
+const PORT = process.env.PORT || 3000;
 
 const january2025 = require('./articles/2025/january/index.js');
 const authors = require('./authors/index.js');
@@ -98,7 +99,7 @@ categories.forEach((category) => {
 app.get('/authors/:slug', handleAuthorRoute);
 
 // // Start the Express server
-const PORT = process.env.PORT || 3000;
+
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
