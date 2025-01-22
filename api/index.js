@@ -8,7 +8,7 @@ const authors = require('../authors/index.js');
 const app = express();
 
 // Middleware
-app.use(cors({ origin: ["https://beach-fashion-magazine.vercel.app", "http://localhost:3000"] }));
+app.use(cors({ origin: "*" }));
 app.use(express.json());
 app.use('/images', express.static(path.join(__dirname, 'images'))); // Serve images
 
