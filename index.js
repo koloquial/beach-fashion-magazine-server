@@ -2,8 +2,8 @@ const express = require('express');
 const cors = require('cors');
 const path = require('path');
 
-const january2025 = require('../articles/2025/january/index.js');
-const authors = require('../authors/index.js');
+const january2025 = require('./articles/2025/january/index.js');
+const authors = require('./authors/index.js');
 
 const app = express();
 
@@ -44,8 +44,6 @@ app.get('/', (req, res) => {
 const handleArticleRoute = (req, res, category) => {
   const { slug } = req.params;
   const article = findBySlug(january2025, slug);
-
-  console.log('Article:', article);
 
   if (!article) {
     return res.status(404).json({ error: 'Article not found' });
@@ -98,6 +96,12 @@ categories.forEach((category) => {
 
 // Route: Get a specific author
 app.get('/authors/:slug', handleAuthorRoute);
+
+// // Start the Express server
+// const PORT = process.env.PORT || 3000;
+// app.listen(PORT, () => {
+//   console.log(`Server is running on port ${PORT}`);
+// });
 
 const serverless = require('serverless-http');
 module.exports = serverless(app);
