@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
-onst serverless = require('serverless-http');
+const serverless = require('serverless-http');
 
 const january2025 = require('../articles/2025/january/index.js');
 const authors = require('../authors/index.js');
@@ -9,7 +9,7 @@ const authors = require('../authors/index.js');
 const app = express();
 
 // Middleware
-app.use(cors({ origin: ["https://beach-fashion-magazine.vercel.app", "*"] }));
+app.use(cors({ origin: ["https://beach-fashion-magazine.vercel.app", "http://localhost:3000"] }));
 app.use(express.json());
 app.use('/images', express.static(path.join(__dirname, 'images'))); // Serve images
 
