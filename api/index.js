@@ -1,7 +1,6 @@
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
-const serverless = require('serverless-http');
 
 const january2025 = require('../articles/2025/january/index.js');
 const authors = require('../authors/index.js');
@@ -100,10 +99,5 @@ categories.forEach((category) => {
 // Route: Get a specific author
 app.get('/authors/:slug', handleAuthorRoute);
 
-// // Start the server
-// const PORT = 5000;
-// app.listen(PORT, () => {
-//   console.log(`Server is running on http://localhost:${PORT}`);
-// });
-
+const serverless = require('serverless-http');
 module.exports = serverless(app);
