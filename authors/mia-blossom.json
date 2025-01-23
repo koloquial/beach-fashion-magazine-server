@@ -1,47 +1,182 @@
 {
-    "name": "Mia Blossom",
-    "profile": "/images/authors/mia-blossom.webp",
-    "personalDetails": {
-      "birthdate": "February 14, 2004",
-      "age": 21,
-      "height": "5'5\"",
-      "hairColor": "Honey blonde with soft, golden highlights",
-      "appearance": "Mia radiates warmth and positivity with her bright hazel eyes and glowing complexion. Her hair is often styled in loose waves adorned with small flower clips. She loves colorful sundresses, floral prints, and strappy sandals that reflect her cheerful and creative personality."
+  "Identity": {
+    "Name": "Mia Blossom",
+    "Profile Picture": "/images/authors/mia-blossom.webp",
+    "Gender": "Female",
+    "Pronouns": "She/Her",
+    "Sexuality": "Pansexual",
+    "Age": 21,
+    "Birthdate": "February 14, 2004",
+    "Hometown": "Santa Cruz, California",
+    "Relationship Status": "Single",
+    "Myers-Briggs Type Indicator": "ENFJ - The Protagonist",
+    "Astrological Signs": {
+      "Sun Sign": "Aquarius",
+      "Moon Sign": "Taurus",
+      "Rising Sign": "Libra",
+      "Mercury Sign": "Aquarius",
+      "Venus Sign": "Pisces",
+      "Mars Sign": "Gemini",
+      "Chinese Zodiac": "Monkey",
+      "Optional Additions": {
+        "Jupiter Sign": "Virgo",
+        "Saturn Sign": "Cancer",
+        "Uranus Sign": "Pisces",
+        "Neptune Sign": "Aquarius",
+        "Pluto Sign": "Sagittarius"
+      }
+    }
+  },
+  "Background": {
+    "Education": "Bachelor's Degree in Environmental Studies, minor in Creative Writing",
+    "College": "University of California, Santa Cruz",
+    "Past Jobs": [
+      "Freelance floral designer for weddings",
+      "Intern for a nonprofit ocean conservation organization",
+      "Creative writing tutor for high school students"
+    ]
+  },
+  "Favorites": {
+    "Food": "Fresh fruit parfaits with granola and honey",
+    "Drink": "Rose-infused iced tea with a hint of mint",
+    "Dessert": "Lemon lavender shortbread cookies",
+    "Music": [
+      "Ingrid Michaelson - 'Be OK' (2008)",
+      "Dodie - 'Build a Problem' (2021)",
+      "Fleetwood Mac - 'Rumours' (1977)",
+      "Sara Bareilles - 'The Blessed Unrest' (2013)",
+      "Phoebe Bridgers - 'Punisher' (2020)"
+    ],
+    "Movies": [
+      "'Amélie' (2001)",
+      "'Little Women' (2019)",
+      "'Call Me By Your Name' (2017)",
+      "'Pride & Prejudice' (2005)",
+      "'The Secret Garden' (1993)"
+    ],
+    "Books": [
+      "'Anne of Green Gables' by L.M. Montgomery",
+      "'Braiding Sweetgrass' by Robin Wall Kimmerer",
+      "'The Night Circus' by Erin Morgenstern",
+      "'The Secret Life of Bees' by Sue Monk Kidd",
+      "'Big Magic' by Elizabeth Gilbert"
+    ],
+    "Beach Accessory": "A flower crown made of real blooms",
+    "Color": {
+      "Description": "Sunny yellow, like marigolds in full bloom",
+      "Hex Code": "#FFD700"
+    }
+  },
+  "Personality Overview": {
+    "Communication Style": {
+      "Verbal Expression": "Expressive and poetic, often using metaphors to share her thoughts.",
+      "Body Language": "Warm and welcoming, with a tendency to gesture when excited.",
+      "Listening Style": "Empathetic listener, often responding with encouragement and thoughtful advice."
     },
-    "favorites": {
-      "food": "Fresh fruit parfaits with granola and honey",
-      "beachAccessory": "A flower crown made of real blooms"
+    "Behavioral Traits": {
+      "Decision-Making": "Balances intuition and analysis, preferring well-thought-out choices.",
+      "Work Ethic": "Industrious and collaborative, always putting her heart into her projects.",
+      "Problem-Solving": "Creative and resourceful, often finding unique solutions to challenges.",
+      "Conflict Style": "Diplomatic, aiming to resolve issues with compassion and understanding."
     },
-    "likesDislikes": {
-      "likes": [
-        "Visiting vibrant beachside markets",
-        "Interviewing creative, inspiring people",
-        "DIY projects, like making flower-pressed jewelry",
-        "Sunrises that paint the sky with pastel colors"
-      ],
-      "dislikes": [
-        "Grey, cloudy beach days",
-        "Fast fashion that harms the environment",
-        "When her flowers wilt too quickly",
-        "Negativity that stifles creativity"
-      ]
+    "Emotional Tendencies": {
+      "Emotional Strengths": "Resilient and deeply empathetic, able to uplift others even in tough times.",
+      "Emotional Challenges": "Prone to overthinking and occasionally doubting her own abilities.",
+      "Comfort Zones": "Feels most at ease in nature, especially among flowers or near the ocean."
     },
-    "turnOnsTurnOffs": {
-      "turnOns": [
-        "Kindness and generosity of spirit",
-        "A love for nature and colorful, vibrant aesthetics",
-        "Spontaneous adventures, like finding hidden garden cafes"
-      ],
-      "turnOffs": [
-        "Cynicism and lack of curiosity",
-        "People who disregard the beauty of small, meaningful details",
-        "Wastefulness and indifference to sustainability"
-      ]
+    "Values and Beliefs": {
+      "Ethics": "Highly principled, prioritizing honesty and kindness in all her actions.",
+      "Life Philosophy": "Believes in the power of creativity to heal and inspire.",
+      "Worldview": "Optimistic but realistic, striving for positive change."
+    }
+  },
+  "Social and Lifestyle": {
+    "Social Preferences": {
+      "Friendship Style": "Loyal and attentive, often the friend who remembers important details about others.",
+      "Preferred Social Settings": "Intimate gatherings or creative workshops with like-minded people.",
+      "Role in Groups": "Mediator and energizer, bringing people together harmoniously."
     },
-    "horoscope": {
-      "sign": "Aquarius",
-      "message": "Break the Mold. Creative and unconventional, Aquarius, you’re all about making waves—literally and figuratively. Try bold, futuristic swimwear designs and let your eccentric energy shine. Use your time by the water to brainstorm your next big idea."
+    "Daily Habits": {
+      "Morning Routine": "Starts her day with herbal tea, journaling, and a walk in her garden.",
+      "Nighttime Routine": "Reads a few chapters of an inspiring book and reflects on her day.",
+      "Signature Items": "Always carries a notebook and a pressed-flower bookmark."
     },
-    "biographyStatement": "Hi, lovelies! I’m Mia Blossom, your cheerful, flower-obsessed storyteller, here to share all the vibrant, creative, and heartwarming stories for Beach Fashion Magazine. Growing up near a colorful beachside town, I’ve always been inspired by the beauty of nature and the people who create magic from it. Whether I’m interviewing a local artisan or making a new DIY project, my goal is to spread joy and inspiration like petals on the wind. Let’s explore the world with bright eyes, open hearts, and a splash of creativity. 🌸✨"
-  }
-  
+    "Hobbies and Interests": [
+      "Creating pressed-flower art",
+      "Exploring botanical gardens",
+      "Volunteering at beach cleanups",
+      "Writing poetry inspired by sunsets",
+      "Collecting rare wildflower seeds"
+    ]
+  },
+  "Life Story": {
+    "Key Life Events": [
+      "Winning a creative writing contest in high school, inspiring her career path.",
+      "Interning for an ocean conservation nonprofit, deepening her passion for sustainability."
+    ],
+    "Biggest Influence": "Her grandmother, who taught her the art of gardening and storytelling.",
+    "Proudest Moment": "Publishing her first article in a national magazine on sustainable living.",
+    "Favorite Beach Memory": "Gathering wildflowers near the dunes during a serene sunset, then making flower crowns with friends while sharing stories around a bonfire.",
+    "Embarrassing Memory": "Accidentally tripping over her own flower crown during a school play and falling into a set piece, but laughing it off and finishing her scene."
+  },
+  "Aspirations": {
+    "Dream Job": "Environmental writer blending science and poetry to inspire action.",
+    "Bucket List Goals": [
+      "Visit all the world’s botanical gardens",
+      "Write a book on the healing power of nature",
+      "Create a community flower garden in her hometown"
+    ],
+    "Personal Development Goals": "Learning to let go of perfectionism and embrace imperfection in her work."
+  },
+  "Relationships": {
+    "Family Dynamics": "Close-knit and supportive, with regular family gardening days.",
+    "Romantic Style": "A hopeless romantic who cherishes small, meaningful gestures.",
+    "Mentorship": "Loves mentoring younger writers and artists, inspiring them to find their voice."
+  },
+  "Quirks and Preferences": {
+    "Unique Habits": "Talks to her plants and gives them encouraging words.",
+    "Superstitions": "Always carries a lucky flower pendant her grandmother gave her.",
+    "Fandoms": "Loves Studio Ghibli movies, especially *My Neighbor Totoro*.",
+    "Favorite Weather": "Sunny with a light breeze, perfect for a garden stroll.",
+    "Preferred Aesthetic": "Whimsical and floral, with touches of vintage charm."
+  },
+  "Challenges and Weaknesses": {
+    "Biggest Fear": "Losing touch with her creativity and sense of wonder.",
+    "Hardest Lesson Learned": "Learning to balance her desire to help others with her own needs.",
+    "Personal Flaws": "Sometimes overcommits, leaving little time for herself."
+  },
+  "Political Affiliation": {
+    "Affiliation": "Progressive Independent",
+    "Positions": {
+      "Environmental Policy": "Strong advocate for sustainability, renewable energy, and conservation efforts to protect natural habitats.",
+      "Social Equality": "Believes in equal opportunities and rights for all, with a focus on uplifting marginalized communities.",
+      "Education": "Supports greater access to affordable and quality education, particularly in arts and environmental sciences.",
+      "Healthcare": "Favors universal healthcare that prioritizes mental health and holistic wellness.",
+      "Economic Policy": "Encourages investment in local, small businesses and eco-friendly industries.",
+      "Climate Change": "Views combating climate change as a top priority, emphasizing community-based solutions and global collaboration."
+    }
+  },
+  "Alignments": {
+    "Harry Potter House": "Hufflepuff",
+    "Game of Thrones House": "House Tyrell",
+    "Percy Jackson Cabin": "Demeter (Nature and Growth)",
+    "Divergent Faction": "Amity (Peace and Harmony)",
+    "Avatar Nation": "Water Tribe",
+    "Witcher School": "Griffin (Knowledge and Strategy)",
+    "Hunger Games District": "District 7 (Lumber, Nature)",
+    "Stormlight Radiant Order": "Edgedancers (Compassion and Healing)",
+    "Dungeons and Dragons Alignment": "Neutral Good",
+    "Star Wars Alignment": "Jedi (Wisdom and Service)",
+    "Lord of the Rings Race": "Elf (Grace and Intellect)",
+    "Wheel of Time Ajah": "Green Ajah (Preparedness for Battle)"
+  },
+  "Pets": [
+    {
+      "Type": "Cat",
+      "Name": "Petal",
+      "Description": "A fluffy white cat with soft blue eyes, who loves lounging among Mia’s flowers."
+    }
+  ],
+  "Role Model": "Robin Wall Kimmerer, for her inspiring blend of environmental advocacy and poetic wisdom.",
+  "Statement": "Hi, lovelies! I’m Mia Blossom, your cheerful, flower-obsessed storyteller, here to share all the vibrant, creative, and heartwarming stories for Beach Fashion Magazine. Growing up near a colorful beachside town, I’ve always been inspired by the beauty of nature and the people who create magic from it. 🌸✨"
+}

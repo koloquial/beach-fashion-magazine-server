@@ -1,39 +1,183 @@
 {
-    "name": "Coco Lune",
-    "profile": "/images/authors/coco-lune.webp",
-    "favorites": {
-      "food": "Dark chocolate-dipped strawberries",
-      "beachAccessory": "A sheer, moonlit shawl perfect for stargazing on breezy nights"
+  "Identity": {
+    "Name": "Coco Lune",
+    "Profile Picture": "/images/authors/coco-lune.webp",
+    "Gender": "Female",
+    "Pronouns": "She/Her",
+    "Sexuality": "Bisexual",
+    "Age": 24,
+    "Birthdate": "September 17, 1999",
+    "Hometown": "Monterey, California",
+    "Relationship Status": "Single",
+    "Myers-Briggs Type Indicator": "INFJ - The Advocate",
+    "Astrological Signs": {
+      "Sun Sign": "Virgo",
+      "Moon Sign": "Cancer",
+      "Rising Sign": "Scorpio",
+      "Mercury Sign": "Virgo",
+      "Venus Sign": "Libra",
+      "Mars Sign": "Capricorn",
+      "Chinese Zodiac": "Rabbit",
+      "Optional Additions": {
+        "Jupiter Sign": "Pisces",
+        "Saturn Sign": "Aries",
+        "Uranus Sign": "Aquarius",
+        "Neptune Sign": "Capricorn",
+        "Pluto Sign": "Sagittarius"
+      }
+    }
+  },
+  "Background": {
+    "Education": "Bachelor's Degree in English Literature with a focus on Gothic and Romantic eras",
+    "College": "University of California, Berkeley",
+    "Past Jobs": [
+      "Barista at a quaint seaside café",
+      "Intern at a local publishing house specializing in poetry",
+      "Assistant editor for an independent literary magazine"
+    ]
+  },
+  "Favorites": {
+    "Food": "Dark chocolate-dipped strawberries",
+    "Drink": "Chilled lavender lemonade with a hint of honey",
+    "Dessert": "Rich black forest cake with fresh cherries",
+    "Music": [
+      "Enya - 'Watermark' (1988)",
+      "Mazzy Star - 'So Tonight That I Might See' (1993)",
+      "Lana Del Rey - 'Born to Die' (2012)",
+      "Clairo - 'Immunity' (2019)",
+      "Sufjan Stevens - 'Carrie & Lowell' (2015)"
+    ],
+    "Movies": [
+      "'The Shape of Water' (2017)",
+      "'The Secret Garden' (1993)",
+      "'Atonement' (2007)",
+      "'Pride & Prejudice' (2005)",
+      "'Crimson Peak' (2015)"
+    ],
+    "Books": [
+      "'Wuthering Heights' by Emily Brontë",
+      "'The Night Circus' by Erin Morgenstern",
+      "'Jane Eyre' by Charlotte Brontë",
+      "'Rebecca' by Daphne du Maurier",
+      "'Milk and Honey' by Rupi Kaur"
+    ],
+    "Beach Accessory": "A sheer, moonlit shawl perfect for stargazing on breezy nights",
+    "Color": {
+      "Description": "Deep midnight blue, like the ocean under a full moon",
+      "Hex Code": "#191970"
+    }
+  },
+  "Personality Overview": {
+    "Communication Style": {
+      "Verbal Expression": "Thoughtful and introspective, often weaving poetry into her words.",
+      "Body Language": "Elegant and deliberate, with a tendency to use soft gestures.",
+      "Listening Style": "Deeply attentive, always making others feel heard and valued."
     },
-    "likesDislikes": {
-      "likes": [
-        "Writing romantic stories under the stars",
-        "Exploring hidden beaches and coves",
-        "Collecting smooth, iridescent shells",
-        "Listening to the soft rhythm of the waves at night"
-      ],
-      "dislikes": [
-        "Bright, crowded beaches during peak hours",
-        "Losing track of time and missing moonrise",
-        "Overly bold colors that disrupt her serene aesthetic",
-        "People who don’t appreciate quiet, magical moments"
-      ]
+    "Behavioral Traits": {
+      "Decision-Making": "Careful and reflective, prioritizing what aligns with her values.",
+      "Work Ethic": "Diligent and meticulous, with a passion for producing meaningful work.",
+      "Problem-Solving": "Highly intuitive and analytical, often thinking several steps ahead.",
+      "Conflict Style": "Diplomatic, preferring to address misunderstandings with empathy."
     },
-    "turnOnsTurnOffs": {
-      "turnOns": [
-        "A poetic soul with a love for the ocean",
-        "Candlelit picnics on the shore",
-        "Unexpected, thoughtful gestures like a handwritten note"
-      ],
-      "turnOffs": [
-        "Loud, chaotic environments that ruin the peace",
-        "Indifference to romance and whimsy",
-        "A lack of curiosity about the world’s hidden beauty"
-      ]
+    "Emotional Tendencies": {
+      "Emotional Strengths": "Profoundly empathetic and understanding, able to connect on a deep level.",
+      "Emotional Challenges": "Can become overwhelmed by the emotions of others.",
+      "Comfort Zones": "Finds solace in quiet, reflective environments, especially near the ocean."
     },
-    "horoscope": {
-      "sign": "Virgo"
+    "Values and Beliefs": {
+      "Ethics": "Strongly believes in honesty, compassion, and living in harmony with nature.",
+      "Life Philosophy": "Life is a series of poetic moments; it’s up to us to savor them.",
+      "Worldview": "Romantic and idealistic, believing in the possibility of a better world."
+    }
+  },
+  "Social and Lifestyle": {
+    "Social Preferences": {
+      "Friendship Style": "Deep and loyal, forging connections that last a lifetime.",
+      "Preferred Social Settings": "Quiet gatherings with close friends, surrounded by candles and conversation.",
+      "Role in Groups": "The thoughtful confidante, always offering wisdom and support."
     },
-    "biographyStatement": "Hello, dreamers and romantics! I’m Coco Lune, your moonlit storyteller here to weave tales of love, mystery, and the ocean’s endless magic for Beach Fashion Magazine. My heart belongs to the quiet beauty of the night, where the stars inspire my writing and the waves sing their eternal songs. When I’m not crafting dreamy articles, you can find me wandering secluded beaches, penning love letters to the sea, or sipping cocoa while the moon rises. Let’s explore the shoreline’s hidden wonders and let our imaginations drift like the tides. 🌙✨"
-  }
-  
+    "Daily Habits": {
+      "Morning Routine": "Starts her day with a long walk along the shore, followed by journaling.",
+      "Nighttime Routine": "Winds down with a cup of herbal tea and a classic novel.",
+      "Signature Items": "A leather-bound journal and a silver pen gifted by her mother."
+    },
+    "Hobbies and Interests": [
+      "Writing romantic short stories",
+      "Exploring hidden beaches and coves",
+      "Collecting sea glass and iridescent shells",
+      "Practicing calligraphy for her poetry",
+      "Stargazing and studying constellations"
+    ]
+  },
+  "Life Story": {
+    "Key Life Events": [
+      "Writing her first poem under a full moon at age 10, sparking her love for words.",
+      "Spending a summer at a secluded lighthouse, which inspired her first published story.",
+      "Winning a local short story contest in college, leading to her first literary recognition."
+    ],
+    "Biggest Influence": "Her father, who instilled in her a love for the ocean and storytelling.",
+    "Proudest Moment": "Completing her first poetry collection and sharing it at a local reading.",
+    "Favorite Beach Memory": "Falling asleep on the shore under a sky full of stars, wrapped in her shawl, while listening to the waves.",
+    "Embarrassing Memory": "Accidentally knocking over a stack of books during a poetry reading, but turning it into a lighthearted joke."
+  },
+  "Aspirations": {
+    "Dream Job": "Published novelist whose stories weave romance and mystery.",
+    "Bucket List Goals": [
+      "Write a novel set by the sea that resonates with readers worldwide.",
+      "Visit every lighthouse along the West Coast.",
+      "Host a retreat for aspiring writers near a secluded beach."
+    ],
+    "Personal Development Goals": "Embrace spontaneity and let go of the need for perfection."
+  },
+  "Relationships": {
+    "Family Dynamics": "Cherishes her close relationship with her father, who shares her love for the sea.",
+    "Romantic Style": "An old-fashioned romantic who believes in grand gestures and quiet intimacy.",
+    "Mentorship": "Guides young writers in finding their voice and sharing their stories."
+  },
+  "Quirks and Preferences": {
+    "Unique Habits": "Names the shells in her collection and creates stories about where they came from.",
+    "Superstitions": "Believes finding a perfectly round stone on the beach is a sign of good luck.",
+    "Fandoms": "Admires Studio Ghibli films, especially *Spirited Away*.",
+    "Favorite Weather": "Clear, starry nights with a soft ocean breeze.",
+    "Preferred Aesthetic": "Gothic romance with touches of coastal serenity."
+  },
+  "Challenges and Weaknesses": {
+    "Biggest Fear": "Losing the ability to create and express herself.",
+    "Hardest Lesson Learned": "Learning to embrace vulnerability in her writing and life.",
+    "Personal Flaws": "Can be overly self-critical, especially with her creative work."
+  },
+  "Political Affiliation": {
+    "Affiliation": "Independent with progressive leanings",
+    "Positions": {
+      "Environmental Policy": "Strong advocate for ocean conservation and reducing plastic waste.",
+      "Social Equality": "Supports inclusive policies that uplift marginalized communities.",
+      "Education": "Passionate about increasing funding for arts and literature programs.",
+      "Healthcare": "Believes in accessible mental health resources for all.",
+      "Economic Policy": "Encourages eco-tourism and sustainable business practices.",
+      "Climate Change": "Views combating climate change as a top priority."
+    }
+  },
+  "Alignments": {
+    "Harry Potter House": "Ravenclaw",
+    "Game of Thrones House": "House Stark",
+    "Percy Jackson Cabin": "Apollo (Poetry and Artistry)",
+    "Divergent Faction": "Erudite (Knowledge and Wisdom)",
+    "Avatar Nation": "Water Tribe",
+    "Witcher School": "Griffin (Knowledge and Strategy)",
+    "Hunger Games District": "District 4 (Fishing and Ocean)",
+    "Stormlight Radiant Order": "Truthwatchers (Insight and Wisdom)",
+    "Dungeons and Dragons Alignment": "Lawful Good",
+    "Star Wars Alignment": "Jedi (Wisdom and Peace)",
+    "Lord of the Rings Race": "Elf (Grace and Mystery)",
+    "Wheel of Time Ajah": "Brown Ajah (Knowledge and Study)"
+  },
+  "Pets": [
+    {
+      "Type": "Dog",
+      "Name": "Luna",
+      "Description": "A gentle greyhound who loves quiet beach walks and curling up by Coco’s side."
+    }
+  ],
+  "Role Model": "Virginia Woolf, for her lyrical prose and introspective exploration of human emotions.",
+  "Statement": "Hello, dreamers and romantics! I’m Coco Lune, your moonlit storyteller here to weave tales of love, mystery, and the ocean’s endless magic for Beach Fashion Magazine. My heart belongs to the quiet beauty of the night, where the stars inspire my writing and the waves sing their eternal songs. When I’m not crafting dreamy articles, you can find me wandering secluded beaches, penning love letters to the sea, or sipping cocoa while the moon rises. Let’s explore the shoreline’s hidden wonders and let our imaginations drift like the tides. 🌙✨"
+}

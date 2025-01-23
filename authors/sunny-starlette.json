@@ -1,82 +1,183 @@
 {
-  "name": "Sunny Starlette",
-  "profile": "/images/authors/sunny-starlette.webp",
-  "personalDetails": {
-    "birthdate": "April 15, 2005",
-    "age": 19,
-    "height": "5'6\"",
-    "hometown": "Laguna Beach, California"
+  "Identity": {
+    "Name": "Sunny Starlette",
+    "Profile Picture": "/images/authors/sunny-starlette.webp",
+    "Gender": "Female",
+    "Pronouns": "She/Her",
+    "Sexuality": "Pansexual",
+    "Age": 19,
+    "Birthdate": "April 15, 2005",
+    "Hometown": "Laguna Beach, California",
+    "Relationship Status": "Single",
+    "Myers-Briggs Type Indicator": "ENFP - The Campaigner",
+    "Astrological Signs": {
+      "Sun Sign": "Aries",
+      "Moon Sign": "Leo",
+      "Rising Sign": "Sagittarius",
+      "Mercury Sign": "Gemini",
+      "Venus Sign": "Taurus",
+      "Mars Sign": "Aries",
+      "Chinese Zodiac": "Rooster",
+      "Optional Additions": {
+        "Jupiter Sign": "Aquarius",
+        "Saturn Sign": "Cancer",
+        "Uranus Sign": "Pisces",
+        "Neptune Sign": "Aquarius",
+        "Pluto Sign": "Sagittarius"
+      }
+    }
   },
-  "favorites": {
-    "food": "Acai bowls with extra coconut and a drizzle of honey—because healthy can be delicious and cute!",
-    "drink": "Iced passion fruit lemonade with extra ice and a cute straw—hydration, but make it fashion.",
-    "dessert": "Key lime pie with extra whipped cream—it’s like summer on a plate, and who doesn’t love a little tangy sweetness?",
-    "music": "90s pop hits—because every beach day needs a killer throwback playlist to sing your heart out to!",
-    "game": "Beach volleyball—so fun, and you look sporty in your cutest bikini. Double win!",
-    "book": "Anything by Elin Hilderbrand—her books are like a beach day in paperback form.",
-    "movie": "Blue Crush—because, duh, surfer girl goals!"
-  },
-  "likesDislikes": {
-    "likes": [
-      "Glitter sunscreen—obviously!",
-      "Impromptu beach bonfires where everyone vibes together",
-      "Thrifting for vintage beachwear (I’m always on the hunt for cute sunnies!)",
-      "Sunsets with pastel skies—seriously, is there anything prettier?",
-      "DIY shell jewelry projects that make you feel like a mermaid",
-      "Sipping coconut water straight from the shell—it’s so tropical-chic!",
-      "Collecting sea glass and turning it into cute beachy decor"
-    ],
-    "dislikes": [
-      "Sand sticking to everything—ugh, the struggle is real.",
-      "Overly complicated beauty routines—who has time for that when there’s sun to soak up?",
-      "When the waves mess up my perfectly styled beach waves (but it’s worth it for the fun!)",
-      "Overcast days when the sun forgets to show up—hello, you had one job!",
-      "Crowded beaches that ruin the serene vibes",
-      "People who don’t believe in the magic of glitter (like, how?)"
+  "Background": {
+    "Education": "Currently pursuing a degree in Communications and Media Studies",
+    "College": "University of Southern California",
+    "Past Jobs": [
+      "Lifeguard at a local beach",
+      "Social media intern for a swimwear brand",
+      "Freelance event planner for beachside parties"
     ]
   },
-  "turnOnsTurnOffs": {
-    "turnOns": [
-      "Confidence that radiates like the sun—shine on, babe!",
-      "A great sense of humor—bonus points if you can make me laugh mid-photo shoot!",
-      "Spontaneous adventures—midnight swims under the stars are the stuff of dreams.",
-      "Kindness—especially to animals and the ocean. Protect our waves, people!",
-      "Creative minds that bring out-of-the-box ideas to life. Let’s make magic together!"
+  "Favorites": {
+    "Food": "Acai bowls with extra coconut and a drizzle of honey",
+    "Drink": "Iced passion fruit lemonade with extra ice",
+    "Dessert": "Key lime pie with extra whipped cream",
+    "Music": [
+      "Spice Girls - 'Spice' (1996)",
+      "Taylor Swift - '1989' (2014)",
+      "Ariana Grande - 'Sweetener' (2018)",
+      "Beyoncé - 'Lemonade' (2016)",
+      "Haim - 'Women in Music Pt. III' (2020)"
     ],
-    "turnOffs": [
-      "Negative vibes—nope, not in my world. Let’s keep it positive!",
-      "People who litter at the beach—seriously, pick up after yourself! Protect our oceans, please.",
-      "A lack of enthusiasm for glitter—like, how do you not love sparkle?",
-      "Rainy days that spoil a beach outing—can we not?",
-      "Anyone who underestimates my passion for fun and sparkle—because I’m living my truth!"
+    "Movies": [
+      "'Blue Crush' (2002)",
+      "'Legally Blonde' (2001)",
+      "'Mamma Mia!' (2008)",
+      "'The Devil Wears Prada' (2006)",
+      "'Clueless' (1995)"
+    ],
+    "Books": [
+      "'The Summer I Turned Pretty' by Jenny Han",
+      "'Beach Read' by Emily Henry",
+      "'Big Magic' by Elizabeth Gilbert",
+      "'Becoming' by Michelle Obama",
+      "'Daisy Jones & The Six' by Taylor Jenkins Reid"
+    ],
+    "Beach Accessory": "Glitter sunscreen",
+    "Color": {
+      "Description": "Bright sunshine yellow, like the happiest summer day",
+      "Hex Code": "#FFD700"
+    }
+  },
+  "Personality Overview": {
+    "Communication Style": {
+      "Verbal Expression": "Energetic and engaging, often lighting up a conversation.",
+      "Body Language": "Dynamic and expressive, with lots of movement and enthusiasm.",
+      "Listening Style": "Attentive and encouraging, making others feel valued."
+    },
+    "Behavioral Traits": {
+      "Decision-Making": "Spontaneous yet thoughtful, balancing intuition and reason.",
+      "Work Ethic": "Creative and driven, thriving in collaborative environments.",
+      "Problem-Solving": "Innovative and resourceful, bringing fresh ideas to challenges.",
+      "Conflict Style": "Open and direct, preferring to resolve issues quickly and with positivity."
+    },
+    "Emotional Tendencies": {
+      "Emotional Strengths": "Optimistic and passionate, lifting others' spirits effortlessly.",
+      "Emotional Challenges": "Can become overwhelmed by taking on too much at once.",
+      "Comfort Zones": "Feels most alive at the beach, surrounded by friends and sunshine."
+    },
+    "Values and Beliefs": {
+      "Ethics": "Values authenticity, kindness, and the power of community.",
+      "Life Philosophy": "Spread sunshine wherever you go and watch the world brighten.",
+      "Worldview": "Joyful and hopeful, believing in the magic of human connection."
+    }
+  },
+  "Social and Lifestyle": {
+    "Social Preferences": {
+      "Friendship Style": "Warm and inclusive, with a knack for bringing people together.",
+      "Preferred Social Settings": "Beach bonfires, group outings, and festive celebrations.",
+      "Role in Groups": "The motivator, inspiring others to embrace their best selves."
+    },
+    "Daily Habits": {
+      "Morning Routine": "Starts her day with a run along the beach and a fresh smoothie.",
+      "Nighttime Routine": "Unwinds with a good book and a playlist of calming ocean sounds.",
+      "Signature Items": "Always has a pair of oversized sunglasses and a glittery beach bag."
+    },
+    "Hobbies and Interests": [
+      "Hosting impromptu beach picnics",
+      "Thrifting for vintage beachwear",
+      "Creating inspirational mood boards",
+      "Trying new smoothie recipes",
+      "Learning new surf tricks"
     ]
   },
-  "horoscope": {
-    "sign": "Aries—fire, passion, and adventure. That’s me in a nutshell!"
-  },
-  "personalityTraits": {
-    "coreTraits": [
-      "I’m optimistic and full of energy—like the human version of a sunny day!",
-      "Playful and always up for a laugh—I’ll probably challenge you to a dance-off at some point.",
-      "Creative—I love turning little beach treasures into DIY magic.",
-      "Fashion-savvy—I’m all about spotting the cutest trends for beach days and beyond.",
-      "Deeply passionate about ocean conservation—our beaches are everything, and we have to protect them!",
-      "Sociable—I thrive in group settings, whether it’s a bonfire or a beach volleyball match.",
-      "Adventurous—I’ll try anything once (and probably post it to my feed)."
+  "Life Story": {
+    "Key Life Events": [
+      "Winning a local beach volleyball tournament at age 16.",
+      "Launching a successful fundraiser for ocean cleanup projects.",
+      "Being featured in a magazine for her creative beachwear styling."
     ],
-    "quirkyTraits": [
-      "I can’t resist snapping a picture-perfect sunset—it’s my love language.",
-      "I always have a stash of glitter in my beach bag, just in case.",
-      "I speak fluent 'emoji' in my texts—because why not add some sparkle to your words?",
-      "I add a personal touch to everything, from my outfits to my bonfire playlists.",
-      "I love naming my favorite waves—like ‘Big Sparkle’ and ‘Sea Queen.’ They’re basically my besties."
-    ],
-    "motivations": [
-      "Making every day feel like a summer vacation—it’s a vibe, babe!",
-      "Spreading positivity and inspiring confidence—because life is too short not to love yourself.",
-      "Championing sustainability with my beach lifestyle—protecting our oceans is close to my heart.",
-      "Sharing the joy of beach fashion and fun with my readers—it’s the dream!"
-    ]
+    "Biggest Influence": "Her best friend, who inspires her to stay confident and true to herself.",
+    "Proudest Moment": "Organizing a beach bonfire that brought together over 200 people for a shared cause.",
+    "Favorite Beach Memory": "Dancing to her favorite songs during a sunset party with her closest friends.",
+    "Embarrassing Memory": "Getting caught in a big wave while filming a surf video and losing her balance, but turning it into a hilarious blooper reel."
   },
-  "statement": "Hey, babes! I’m Sunny Starlette, your go-to girl for all things beachy, sparkly, and fabulous. I grew up soaking up the California sun, and let me tell you—life by the waves is the ultimate vibe. Writing for Beach Fashion Magazine is like a dream come true because I get to share my love for beachwear, confidence, and glitter sunscreen with YOU. When I’m not typing away, you’ll find me hosting dance-offs on the sand, thrifting for vintage sunnies, or perfecting my one-leg pop pose (it’s iconic, trust me). Life’s too short not to sparkle—so let’s shine together! 🌴✨"
-}
+  "Aspirations": {
+    "Dream Job": "Founder of her own lifestyle brand celebrating beach culture and sustainability.",
+    "Bucket List Goals": [
+      "Travel to every tropical island in the world.",
+      "Host an annual global beach festival.",
+      "Create a documentary about the impact of beach culture on communities."
+    ],
+    "Personal Development Goals": "Learn to slow down and appreciate quieter moments."
+  },
+  "Relationships": {
+    "Family Dynamics": "Close-knit and supportive, often sharing beach days together.",
+    "Romantic Style": "Playful and adventurous, looking for someone who matches her energy and zest for life.",
+    "Mentorship": "Enjoys mentoring young creatives and helping them find their voice."
+  },
+  "Quirks and Preferences": {
+    "Unique Habits": "Names her surfboards and adds stickers to represent each trip.",
+    "Superstitions": "Believes that a double rainbow means something amazing is about to happen.",
+    "Fandoms": "Obsessed with *Mamma Mia!* and *The Bachelor*.",
+    "Favorite Weather": "Sunny and warm, with a gentle ocean breeze.",
+    "Preferred Aesthetic": "Vibrant and carefree, with lots of glitter and tropical motifs."
+  },
+  "Challenges and Weaknesses": {
+    "Biggest Fear": "Losing her sense of freedom and spontaneity.",
+    "Hardest Lesson Learned": "Learning that she can’t make everyone happy all the time.",
+    "Personal Flaws": "Struggles with overcommitting and spreading herself too thin."
+  },
+  "Political Affiliation": {
+    "Affiliation": "Social Progressive Independent",
+    "Positions": {
+      "Environmental Policy": "Supports clean beaches and reducing single-use plastics.",
+      "Social Equality": "Advocates for LGBTQ+ rights and community inclusion.",
+      "Education": "Believes in fostering creativity and self-expression in schools.",
+      "Healthcare": "Supports holistic wellness initiatives and mental health access.",
+      "Economic Policy": "Encourages investment in eco-friendly industries and local businesses.",
+      "Climate Change": "Believes in protecting coastlines and promoting renewable energy."
+    }
+  },
+  "Alignments": {
+    "Harry Potter House": "Gryffindor",
+      "Game of Thrones House": "House Targaryen",
+      "Percy Jackson Cabin": "Apollo (Music and Creativity)",
+      "Divergent Faction": "Dauntless (Courage and Adventure)",
+      "Avatar Nation": "Fire Nation",
+      "Witcher School": "Cat (Cunning and Agility)",
+      "Hunger Games District": "District 4 (Fishing and Ocean)",
+      "Stormlight Radiant Order": "Lightweavers (Creativity and Expression)",
+      "Dungeons and Dragons Alignment": "Chaotic Good",
+      "Star Wars Alignment": "Rebel Alliance",
+      "Lord of the Rings Race": "Elf (Grace and Elegance)",
+      "Wheel of Time Ajah": "Yellow Ajah (Healing and Support)"
+    },
+    "Pets": [
+      {
+        "Type": "Golden Retriever",
+        "Name": "Sunny",
+        "Description": "A playful and loyal dog who loves running along the shore and chasing waves."
+      }
+    ],
+    "Role Model": "Reese Witherspoon, for her positivity, entrepreneurial spirit, and passion for empowering women.",
+    "Statement": "Hey, babes! I’m Sunny Starlette, your go-to girl for all things beachy, sparkly, and fabulous. I grew up soaking up the California sun, and let me tell you—life by the waves is the ultimate vibe. Writing for Beach Fashion Magazine is like a dream come true because I get to share my love for beachwear, confidence, and glitter sunscreen with YOU. 🌴✨ Let’s make every day a beach day and live life like the sun never sets!"
+  }

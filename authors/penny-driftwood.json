@@ -1,47 +1,183 @@
 {
-    "name": "Penny Driftwood",
-    "profile": "/images/authors/penny-driftwood.webp",
-    "personalDetails": {
-      "birthdate": "May 2, 2003",
-      "age": 21,
-      "height": "5'8\"",
-      "hairColor": "Golden brown with subtle honey highlights",
-      "appearance": "Penny exudes a calm and grounded presence, with soft, wavy hair often styled with a braided headband or adorned with small flowers. Her warm hazel eyes and sun-kissed skin reflect her love for the outdoors. She prefers comfortable linen dresses, earthy tones, and always carries a touch of nature in her style."
+  "Identity": {
+    "Name": "Penny Driftwood",
+    "Profile Picture": "/images/authors/penny-driftwood.webp",
+    "Gender": "Female",
+    "Pronouns": "She/Her",
+    "Sexuality": "Bisexual",
+    "Age": 21,
+    "Birthdate": "May 2, 2003",
+    "Hometown": "Bar Harbor, Maine",
+    "Relationship Status": "In a Relationship",
+    "Myers-Briggs Type Indicator": "ISFJ - The Defender",
+    "Astrological Signs": {
+      "Sun Sign": "Taurus",
+      "Moon Sign": "Cancer",
+      "Rising Sign": "Virgo",
+      "Mercury Sign": "Gemini",
+      "Venus Sign": "Taurus",
+      "Mars Sign": "Leo",
+      "Chinese Zodiac": "Goat",
+      "Optional Additions": {
+        "Jupiter Sign": "Pisces",
+        "Saturn Sign": "Gemini",
+        "Uranus Sign": "Aquarius",
+        "Neptune Sign": "Capricorn",
+        "Pluto Sign": "Sagittarius"
+      }
+    }
+  },
+  "Background": {
+    "Education": "Bachelor's Degree in Environmental Science",
+    "College": "University of Maine",
+    "Past Jobs": [
+      "Park ranger at Acadia National Park",
+      "Volunteer coordinator for a coastal restoration project",
+      "Freelance nature photographer for eco-tourism companies"
+    ]
+  },
+  "Favorites": {
+    "Food": "Grilled fish tacos with mango salsa",
+    "Drink": "Chamomile tea with honey",
+    "Dessert": "Peach cobbler with a scoop of vanilla ice cream",
+    "Music": [
+      "Iron & Wine - 'Our Endless Numbered Days' (2004)",
+      "Norah Jones - 'Come Away With Me' (2002)",
+      "The Lumineers - 'The Lumineers' (2012)",
+      "Simon & Garfunkel - 'Bridge Over Troubled Water' (1970)",
+      "Brandi Carlile - 'By the Way, I Forgive You' (2018)"
+    ],
+    "Movies": [
+      "'The Secret Life of Walter Mitty' (2013)",
+      "'Into the Wild' (2007)",
+      "'Julie & Julia' (2009)",
+      "'The Biggest Little Farm' (2018)",
+      "'Call of the Forest' (2016)"
+    ],
+    "Books": [
+      "'Braiding Sweetgrass' by Robin Wall Kimmerer",
+      "'Silent Spring' by Rachel Carson",
+      "'The Overstory' by Richard Powers",
+      "'A Walk in the Woods' by Bill Bryson",
+      "'Pilgrim at Tinker Creek' by Annie Dillard"
+    ],
+    "Beach Accessory": "A wide-brimmed hat and a reusable water bottle for eco-conscious hydration",
+    "Color": {
+      "Description": "Earthy sage green, like the leaves of a coastal forest",
+      "Hex Code": "#87A96B"
+    }
+  },
+  "Personality Overview": {
+    "Communication Style": {
+      "Verbal Expression": "Soft-spoken and thoughtful, with a calming presence.",
+      "Body Language": "Grounded and composed, often making gentle gestures.",
+      "Listening Style": "Deeply attentive and patient, valuing meaningful conversations."
     },
-    "favorites": {
-      "food": "Grilled fish tacos with mango salsa",
-      "beachAccessory": "A wide-brimmed hat and a reusable water bottle for eco-conscious hydration"
+    "Behavioral Traits": {
+      "Decision-Making": "Practical and detail-oriented, often prioritizing long-term goals.",
+      "Work Ethic": "Reliable and hardworking, dedicated to her values and responsibilities.",
+      "Problem-Solving": "Resourceful and empathetic, finding solutions that balance logic and care.",
+      "Conflict Style": "Diplomatic and understanding, preferring to avoid unnecessary tension."
     },
-    "likesDislikes": {
-      "likes": [
-        "Reading by the shoreline",
-        "Planting wildflowers to attract pollinators",
-        "Sustainable fashion made from organic materials",
-        "Writing horoscopes under the stars"
-      ],
-      "dislikes": [
-        "Single-use plastics littering the beach",
-        "Unnecessary drama (nature is her escape!)",
-        "Being rushed through her morning tea ritual",
-        "Neglecting self-care in busy times"
-      ]
+    "Emotional Tendencies": {
+      "Emotional Strengths": "Empathetic and nurturing, providing a sense of stability to those around her.",
+      "Emotional Challenges": "Can become overwhelmed by the needs of others, forgetting her own.",
+      "Comfort Zones": "Feels most at peace in nature, particularly near forests or the ocean."
     },
-    "turnOnsTurnOffs": {
-      "turnOns": [
-        "A deep connection with nature and the stars",
-        "Kindness and empathy in every interaction",
-        "A shared passion for sustainability and environmental care"
-      ],
-      "turnOffs": [
-        "A lack of respect for the planet",
-        "Superficial conversations with no depth",
-        "Overly flashy or wasteful lifestyles"
-      ]
+    "Values and Beliefs": {
+      "Ethics": "Grounded in sustainability, kindness, and community.",
+      "Life Philosophy": "We have a responsibility to care for the earth and each other.",
+      "Worldview": "Optimistic yet realistic, believing small actions can lead to big changes."
+    }
+  },
+  "Social and Lifestyle": {
+    "Social Preferences": {
+      "Friendship Style": "Loyal and dependable, often the friend who plans thoughtful surprises.",
+      "Preferred Social Settings": "Small gatherings in natural settings, like picnics or hikes.",
+      "Role in Groups": "The caregiver, ensuring everyone feels valued and included."
     },
-    "horoscope": {
-      "sign": "Taurus",
-      "message": "Find Your Center. Grounded Taurus, the beach is your haven this month. Opt for earthy tones in your beachwear, like sand-colored sarongs or sage-green swimsuits. A quiet sunrise walk will help you reset and connect with yourself."
+    "Daily Habits": {
+      "Morning Routine": "Starts her day with a sunrise walk and a cup of tea.",
+      "Nighttime Routine": "Writes in her gratitude journal and waters her plants.",
+      "Signature Items": "Always carries a reusable tote bag and a journal for jotting down ideas."
     },
-    "biographyStatement": "Hi, fellow stargazers! I’m Penny Driftwood, your nature-loving guide to the stars and the sea. Writing for Beach Fashion Magazine lets me combine my passions for celestial rhythms, sustainability, and beachy vibes. My horoscopes are crafted to help you flow with life’s tides and align with the beauty of the natural world. When I’m not writing, you’ll find me planting wildflowers, walking barefoot by the water, or sipping herbal tea while watching the sunrise. Let’s journey together with intention, balance, and a touch of stardust. 🌙✨"
-  }
-  
+    "Hobbies and Interests": [
+      "Planting wildflowers to attract pollinators",
+      "Reading environmental literature",
+      "Photography of coastal landscapes and wildlife",
+      "Volunteering at beach cleanups and community gardens",
+      "Practicing mindfulness and meditation outdoors"
+    ]
+  },
+  "Life Story": {
+    "Key Life Events": [
+      "Witnessing the northern lights during a camping trip at age 14, sparking her love for nature.",
+      "Coordinating a successful fundraiser to restore a local beach.",
+      "Publishing her first photo essay on coastal conservation in an environmental journal."
+    ],
+    "Biggest Influence": "Her father, who was a park ranger and shared his love for the outdoors.",
+    "Proudest Moment": "Leading a project to plant 10,000 wildflowers in her hometown.",
+    "Favorite Beach Memory": "Kayaking with dolphins at sunrise and feeling completely connected to nature.",
+    "Embarrassing Memory": "Accidentally getting stuck in a tide pool while photographing starfish."
+  },
+  "Aspirations": {
+    "Dream Job": "Environmental advocate and photographer highlighting the beauty of coastal ecosystems.",
+    "Bucket List Goals": [
+      "Hike every national park in the United States.",
+      "Publish a book of nature photography and essays.",
+      "Start a nonprofit focused on sustainable coastal living."
+    ],
+    "Personal Development Goals": "Learn to say no and set healthier boundaries."
+  },
+  "Relationships": {
+    "Family Dynamics": "Close to her family, particularly her father, who inspired her environmental passions.",
+    "Romantic Style": "A loving and steady partner who values shared goals and quiet moments.",
+    "Mentorship": "Supports young environmentalists by teaching them sustainable practices."
+  },
+  "Quirks and Preferences": {
+    "Unique Habits": "Names the trees in her garden and talks to them while watering.",
+    "Superstitions": "Believes finding a feather on the beach is a sign of good luck.",
+    "Fandoms": "Loves documentaries by David Attenborough.",
+    "Favorite Weather": "Cool, sunny mornings with a hint of ocean breeze.",
+    "Preferred Aesthetic": "Earthy and minimalistic, with natural textures and colors."
+  },
+  "Challenges and Weaknesses": {
+    "Biggest Fear": "Witnessing the irreversible destruction of nature.",
+    "Hardest Lesson Learned": "Understanding that she can’t do everything alone.",
+    "Personal Flaws": "Struggles with perfectionism and taking on too much responsibility."
+  },
+  "Political Affiliation": {
+    "Affiliation": "Environmentalist Independent",
+    "Positions": {
+      "Environmental Policy": "Passionate about preserving national parks and coastal habitats.",
+      "Social Equality": "Believes in equitable access to nature and outdoor spaces for all.",
+      "Education": "Advocates for environmental education in schools.",
+      "Healthcare": "Supports holistic approaches that include mental health and wellness.",
+      "Economic Policy": "Encourages eco-friendly businesses and sustainable tourism.",
+      "Climate Change": "Prioritizes reducing carbon footprints and protecting biodiversity."
+    }
+  },
+  "Alignments": {
+    "Harry Potter House": "Hufflepuff",
+    "Game of Thrones House": "House Tyrell",
+    "Percy Jackson Cabin": "Demeter (Nature and Growth)",
+    "Divergent Faction": "Amity (Peace and Harmony)",
+    "Avatar Nation": "Earth Kingdom",
+    "Witcher School": "Griffin (Knowledge and Strategy)",
+    "Hunger Games District": "District 7 (Lumber, Nature)",
+    "Stormlight Radiant Order": "Edgedancers (Compassion and Healing)",
+    "Dungeons and Dragons Alignment": "Neutral Good",
+    "Star Wars Alignment": "Jedi (Wisdom and Service)",
+    "Lord of the Rings Race": "Hobbit (Connected to the Land)",
+    "Wheel of Time Ajah": "Green Ajah (Preparedness for Battle)"
+  },
+  "Pets": [
+    {
+      "Type": "Rabbit",
+      "Name": "Clover",
+      "Description": "A soft, gray rabbit who loves nibbling on wildflowers and hopping around Penny’s garden."
+    }
+  ],
+  "Role Model": "Rachel Carson, for her groundbreaking work in environmental science and advocacy.",
+  "Statement": "Hi, fellow stargazers! I’m Penny Driftwood, your nature-loving guide to the stars and the sea. Writing for Beach Fashion Magazine lets me combine my passions for celestial rhythms, sustainability, and beachy vibes. Let’s journey together with intention, balance, and a touch of stardust. 🌙✨"
+}

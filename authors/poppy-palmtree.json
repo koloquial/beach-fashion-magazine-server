@@ -1,47 +1,183 @@
 {
-    "name": "Poppy Palmtree",
-    "profile": "/images/authors/poppy-palmtree.webp",
-    "personalDetails": {
-      "birthdate": "March 3, 2005",
-      "age": 19,
-      "height": "5'5\"",
-      "hairColor": "Bright strawberry blonde with playful pink streaks",
-      "appearance": "Poppy is a ball of energy with a vibrant smile that’s as sunny as her name. Her hair is often styled in messy braids or a high ponytail, and she’s never without her signature sparkly lip gloss. She loves bold prints and funky sunglasses that reflect her lively and creative spirit."
+  "Identity": {
+    "Name": "Poppy Palmtree",
+    "Profile Picture": "/images/authors/poppy-palmtree.webp",
+    "Gender": "Female",
+    "Pronouns": "She/Her",
+    "Sexuality": "Queer",
+    "Age": 19,
+    "Birthdate": "March 3, 2005",
+    "Hometown": "Venice Beach, California",
+    "Relationship Status": "Single",
+    "Myers-Briggs Type Indicator": "ESFP - The Entertainer",
+    "Astrological Signs": {
+      "Sun Sign": "Pisces",
+      "Moon Sign": "Sagittarius",
+      "Rising Sign": "Leo",
+      "Mercury Sign": "Aquarius",
+      "Venus Sign": "Aries",
+      "Mars Sign": "Gemini",
+      "Chinese Zodiac": "Rooster",
+      "Optional Additions": {
+        "Jupiter Sign": "Libra",
+        "Saturn Sign": "Cancer",
+        "Uranus Sign": "Pisces",
+        "Neptune Sign": "Aquarius",
+        "Pluto Sign": "Sagittarius"
+      }
+    }
+  },
+  "Background": {
+    "Education": "Currently studying Performing Arts with a focus on Dance",
+    "College": "Santa Monica College",
+    "Past Jobs": [
+      "Summer camp dance instructor",
+      "Party entertainer specializing in face painting",
+      "Retail associate at a trendy beach boutique"
+    ]
+  },
+  "Favorites": {
+    "Food": "Rainbow sherbet in a waffle cone",
+    "Drink": "Sparkling strawberry lemonade with extra fizz",
+    "Dessert": "Funfetti cupcakes with rainbow sprinkles",
+    "Music": [
+      "Dua Lipa - 'Future Nostalgia' (2020)",
+      "Lady Gaga - 'The Fame' (2008)",
+      "Harry Styles - 'Fine Line' (2019)",
+      "Beyoncé - 'Lemonade' (2016)",
+      "Doja Cat - 'Planet Her' (2021)"
+    ],
+    "Movies": [
+      "'Mamma Mia!' (2008)",
+      "'The Greatest Showman' (2017)",
+      "'Pitch Perfect' (2012)",
+      "'Clueless' (1995)",
+      "'La La Land' (2016)"
+    ],
+    "Books": [
+      "'Beach Read' by Emily Henry",
+      "'To All the Boys I've Loved Before' by Jenny Han",
+      "'Daisy Jones & The Six' by Taylor Jenkins Reid",
+      "'The Sun is Also a Star' by Nicola Yoon",
+      "'Eleanor & Park' by Rainbow Rowell"
+    ],
+    "Beach Accessory": "Oversized heart-shaped sunglasses in neon colors",
+    "Color": {
+      "Description": "Hot pink, like a vibrant sunset over the ocean",
+      "Hex Code": "#FF69B4"
+    }
+  },
+  "Personality Overview": {
+    "Communication Style": {
+      "Verbal Expression": "Bubbly and energetic, with lots of excitement in her tone.",
+      "Body Language": "Animated and expressive, often using hand gestures.",
+      "Listening Style": "Attentive and enthusiastic, with a knack for making people feel heard."
     },
-    "favorites": {
-      "food": "Rainbow sherbet in a waffle cone",
-      "beachAccessory": "Oversized heart-shaped sunglasses in neon colors"
+    "Behavioral Traits": {
+      "Decision-Making": "Spontaneous and adventurous, often going with her gut.",
+      "Work Ethic": "Driven by passion and creativity, thriving in dynamic environments.",
+      "Problem-Solving": "Innovative and resourceful, finding fun and unique solutions.",
+      "Conflict Style": "Confronts issues directly but always aims to lighten the mood."
     },
-    "likesDislikes": {
-      "likes": [
-        "Hosting beach karaoke parties",
-        "DIY fashion projects with friends",
-        "Finding quirky seashells for her collection",
-        "Dancing barefoot in the sand"
-      ],
-      "dislikes": [
-        "Rainy days when she can’t hit the beach",
-        "Plain and boring outfits",
-        "People who don’t dance at parties",
-        "Losing her favorite sunglasses (again)"
-      ]
+    "Emotional Tendencies": {
+      "Emotional Strengths": "Optimistic and resilient, bringing joy to any situation.",
+      "Emotional Challenges": "Struggles with staying grounded during intense moments.",
+      "Comfort Zones": "Feels most herself when surrounded by music, dance, and friends."
     },
-    "turnOnsTurnOffs": {
-      "turnOns": [
-        "A killer sense of humor and someone who can make her laugh",
-        "Creative ideas for beach games and adventures",
-        "Confident energy that matches her enthusiasm"
-      ],
-      "turnOffs": [
-        "Negative vibes and party poopers",
-        "People who criticize her love for glitter",
-        "Being told to 'tone it down'—never happening!"
-      ]
+    "Values and Beliefs": {
+      "Ethics": "Believes in living authentically and spreading positivity.",
+      "Life Philosophy": "Life is a dance—don’t miss a beat!",
+      "Worldview": "Joyful and inclusive, believing everyone deserves to shine."
+    }
+  },
+  "Social and Lifestyle": {
+    "Social Preferences": {
+      "Friendship Style": "Outgoing and supportive, always cheering on her friends.",
+      "Preferred Social Settings": "Dance parties on the beach or karaoke nights.",
+      "Role in Groups": "The life of the party, making sure everyone has fun."
     },
-    "horoscope": {
-      "sign": "Pisces",
-      "message": "Dream by the Shore. Your connection to water is unmatched, Pisces. Flowing fabrics and ocean-inspired hues will enhance your dreamy aura. Spend a quiet evening stargazing on the beach to recharge your creative spirit."
+    "Daily Habits": {
+      "Morning Routine": "Starts her day with a dance workout and a colorful smoothie.",
+      "Nighttime Routine": "Unwinds by watching feel-good movies and scrolling through Pinterest.",
+      "Signature Items": "A glittery water bottle and a custom-made neon pink scrunchie."
     },
-    "biographyStatement": "Hey, hey, hey, beach babes! I’m Poppy Palmtree, your fun-loving, glitter-obsessed party queen, here to bring the energy to Beach Fashion Magazine. Whether I’m belting out tunes at a beach karaoke or DIY-ing the cutest cover-up ever, life’s a celebration, and I’m always ready to bring the confetti. My vibe is all about living loud, laughing often, and rocking bold looks that turn heads. Let’s make every day a beach day, complete with sunshine, sparkle, and good vibes! 🌴✨"
-  }
-  
+    "Hobbies and Interests": [
+      "Hosting beach karaoke parties",
+      "DIY fashion projects with friends",
+      "Dancing barefoot in the sand",
+      "Creating TikTok dance challenges",
+      "Collecting quirky seashells for fun crafts"
+    ]
+  },
+  "Life Story": {
+    "Key Life Events": [
+      "Winning her first dance competition at age 10, sparking her passion for performing.",
+      "Hosting a charity beach party that raised funds for local marine conservation.",
+      "Getting featured in a local newspaper for her creative DIY beachwear designs."
+    ],
+    "Biggest Influence": "Her older sister, who introduced her to music and dance at a young age.",
+    "Proudest Moment": "Choreographing a flash mob at a beach festival that went viral.",
+    "Favorite Beach Memory": "Dancing under the stars with friends during a summer bonfire.",
+    "Embarrassing Memory": "Accidentally stepping on her own dress during a dance recital and tripping, but laughing it off with the crowd."
+  },
+  "Aspirations": {
+    "Dream Job": "Choreographer for major music videos and live performances.",
+    "Bucket List Goals": [
+      "Travel to Ibiza for a summer dance retreat.",
+      "Design a line of beachwear inspired by her vibrant style.",
+      "Host a global dance competition with a focus on inclusivity."
+    ],
+    "Personal Development Goals": "Learn to embrace quiet moments and reflect on her journey."
+  },
+  "Relationships": {
+    "Family Dynamics": "Close to her family, particularly her sister, who inspires her creativity.",
+    "Romantic Style": "Playful and passionate, always looking for someone who matches her energy.",
+    "Mentorship": "Enjoys teaching kids to dance and encouraging them to express themselves."
+  },
+  "Quirks and Preferences": {
+    "Unique Habits": "Carries glitter in her bag ‘just in case’ something needs sparkle.",
+    "Superstitions": "Believes spotting a shooting star brings good luck for performances.",
+    "Fandoms": "Obsessed with *High School Musical* and *Glee*.",
+    "Favorite Weather": "Sunny and warm, perfect for dancing on the beach.",
+    "Preferred Aesthetic": "Bold and eclectic, with lots of color and sparkle."
+  },
+  "Challenges and Weaknesses": {
+    "Biggest Fear": "Losing her spark and creativity.",
+    "Hardest Lesson Learned": "Learning to take breaks and not burn out.",
+    "Personal Flaws": "Sometimes overcommits and spreads herself too thin."
+  },
+  "Political Affiliation": {
+    "Affiliation": "Socially Progressive Independent",
+    "Positions": {
+      "Environmental Policy": "Supports marine conservation and banning single-use plastics.",
+      "Social Equality": "Advocates for LGBTQ+ rights and inclusivity in all spaces.",
+      "Education": "Believes in accessible arts education for kids.",
+      "Healthcare": "Favors mental health resources for artists and performers.",
+      "Economic Policy": "Encourages funding for creative industries and small businesses.",
+      "Climate Change": "Believes in taking action to preserve beaches and coastal ecosystems."
+    }
+  },
+  "Alignments": {
+    "Harry Potter House": "Gryffindor",
+    "Game of Thrones House": "House Targaryen",
+    "Percy Jackson Cabin": "Apollo (Music and Creativity)",
+    "Divergent Faction": "Dauntless (Courage and Adventure)",
+    "Avatar Nation": "Fire Nation",
+    "Witcher School": "Cat (Cunning and Agility)",
+    "Hunger Games District": "District 3 (Innovation and Technology)",
+    "Stormlight Radiant Order": "Lightweavers (Creativity and Expression)",
+    "Dungeons and Dragons Alignment": "Chaotic Good",
+    "Star Wars Alignment": "Rebel Alliance",
+    "Lord of the Rings Race": "Elf (Grace and Artistry)",
+    "Wheel of Time Ajah": "Yellow Ajah (Healing and Support)"
+  },
+  "Pets": [
+    {
+      "Type": "Dog",
+      "Name": "Sparkle",
+      "Description": "A small, energetic Pomeranian with a fluffy coat and a love for glittery collars."
+    }
+  ],
+  "Role Model": "Jennifer Lopez, for her talent, energy, and ability to balance multiple creative roles.",
+  "Statement": "Hey, hey, hey, beach babes! I’m Poppy Palmtree, your fun-loving, glitter-obsessed party queen, here to bring the energy to Beach Fashion Magazine. Whether I’m belting out tunes at a beach karaoke or DIY-ing the cutest cover-up ever, life’s a celebration, and I’m always ready to bring the confetti. 🌴✨"
+}

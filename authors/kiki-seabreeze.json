@@ -1,47 +1,183 @@
 {
-    "name": "Kiki Seabreeze",
-    "profile": "/images/authors/kiki-seabreeze.webp",
-    "personalDetails": {
-      "birthdate": "July 9, 2004",
-      "age": 20,
-      "height": "5'4\"",
-      "hairColor": "Soft brown with sun-kissed caramel highlights",
-      "appearance": "Kiki has a natural beachy glow with her wavy hair often tied in a loose braid. Her warm brown eyes and sunkissed complexion exude effortless charm. She’s frequently spotted wearing flowy dresses and vintage-inspired jewelry that mirrors her dreamy personality."
+  "Identity": {
+    "Name": "Kiki Seabreeze",
+    "Profile Picture": "/images/authors/kiki-seabreeze.webp",
+    "Gender": "Female",
+    "Pronouns": "She/Her",
+    "Sexuality": "Heteroflexible",
+    "Age": 20,
+    "Birthdate": "July 9, 2004",
+    "Hometown": "Key West, Florida",
+    "Relationship Status": "Single",
+    "Myers-Briggs Type Indicator": "ISFP - The Adventurer",
+    "Astrological Signs": {
+      "Sun Sign": "Cancer",
+      "Moon Sign": "Pisces",
+      "Rising Sign": "Virgo",
+      "Mercury Sign": "Cancer",
+      "Venus Sign": "Taurus",
+      "Mars Sign": "Leo",
+      "Chinese Zodiac": "Monkey",
+      "Optional Additions": {
+        "Jupiter Sign": "Gemini",
+        "Saturn Sign": "Aries",
+        "Uranus Sign": "Aquarius",
+        "Neptune Sign": "Pisces",
+        "Pluto Sign": "Sagittarius"
+      }
+    }
+  },
+  "Background": {
+    "Education": "Currently pursuing a degree in Marine Biology",
+    "College": "Florida State University",
+    "Past Jobs": [
+      "Tour guide at a local aquarium",
+      "Freelance photographer for beach weddings",
+      "Volunteer at a sea turtle rescue center"
+    ]
+  },
+  "Favorites": {
+    "Food": "Fresh mango slices sprinkled with chili powder",
+    "Drink": "Iced matcha latte with almond milk",
+    "Dessert": "Key lime pie with a dollop of whipped cream",
+    "Music": [
+      "Jack Johnson - 'In Between Dreams' (2005)",
+      "Norah Jones - 'Come Away With Me' (2002)",
+      "Fleetwood Mac - 'Rumours' (1977)",
+      "Vance Joy - 'Dream Your Life Away' (2014)",
+      "Regina Spektor - 'Begin to Hope' (2006)"
+    ],
+    "Movies": [
+      "'The Notebook' (2004)",
+      "'Finding Nemo' (2003)",
+      "'Big Fish' (2003)",
+      "'The Secret Life of Walter Mitty' (2013)",
+      "'Julie & Julia' (2009)"
+    ],
+    "Books": [
+      "'The Old Man and the Sea' by Ernest Hemingway",
+      "'Gift from the Sea' by Anne Morrow Lindbergh",
+      "'Where the Crawdads Sing' by Delia Owens",
+      "'To the Lighthouse' by Virginia Woolf",
+      "'Circe' by Madeline Miller"
+    ],
+    "Beach Accessory": "A wide-brimmed straw hat adorned with a vintage scarf",
+    "Color": {
+      "Description": "Soft seafoam green, like the color of ocean waves in the sunlight",
+      "Hex Code": "#93E9BE"
+    }
+  },
+  "Personality Overview": {
+    "Communication Style": {
+      "Verbal Expression": "Gentle and reflective, often speaking with warmth and thoughtfulness.",
+      "Body Language": "Relaxed and open, often using subtle gestures.",
+      "Listening Style": "Attentive and empathetic, always making others feel valued."
     },
-    "favorites": {
-      "food": "Fresh mango slices sprinkled with a touch of chili powder",
-      "beachAccessory": "A wide-brimmed straw hat adorned with a vintage scarf"
+    "Behavioral Traits": {
+      "Decision-Making": "Intuitive and emotional, often guided by her heart.",
+      "Work Ethic": "Creative and independent, thrives when working on meaningful projects.",
+      "Problem-Solving": "Calm and resourceful, prefers collaborative solutions.",
+      "Conflict Style": "Avoidant at times but strives to find peaceful resolutions."
     },
-    "likesDislikes": {
-      "likes": [
-        "Collecting vintage postcards",
-        "Stargazing on quiet beach nights",
-        "Writing heartfelt letters",
-        "Picnics with soft jazz playing in the background"
-      ],
-      "dislikes": [
-        "Crowded beaches",
-        "Plastic waste polluting the shore",
-        "Forgetting sunscreen on a sunny day",
-        "Rushed mornings without tea"
-      ]
+    "Emotional Tendencies": {
+      "Emotional Strengths": "Deeply compassionate and understanding, with a calming presence.",
+      "Emotional Challenges": "Prone to overthinking and internalizing others' emotions.",
+      "Comfort Zones": "Feels most at peace near water or in creative pursuits."
     },
-    "turnOnsTurnOffs": {
-      "turnOns": [
-        "Thoughtful gestures, like finding a perfect seashell for her",
-        "A sense of humor that’s a mix of clever and silly",
-        "Passion for sustainability and preserving the ocean"
-      ],
-      "turnOffs": [
-        "A lack of curiosity about the world",
-        "People who don’t appreciate quiet moments",
-        "Over-the-top displays of arrogance"
-      ]
+    "Values and Beliefs": {
+      "Ethics": "Believes in kindness, environmental responsibility, and authenticity.",
+      "Life Philosophy": "Life is like the ocean—beautiful, unpredictable, and worth exploring.",
+      "Worldview": "Optimistic yet grounded, with a focus on living in harmony with nature."
+    }
+  },
+  "Social and Lifestyle": {
+    "Social Preferences": {
+      "Friendship Style": "Loyal and caring, always there with a listening ear.",
+      "Preferred Social Settings": "Small, intimate gatherings by the beach or around a campfire.",
+      "Role in Groups": "The gentle encourager, helping others feel confident and supported."
     },
-    "horoscope": {
-      "sign": "Cancer",
-      "message": "Ride the Emotional Waves. The moon rules your sign, and this month it’s calling you to embrace your nurturing side. Soft blues and whites in your wardrobe will reflect your inner calm. Spend time journaling by the water or collecting shells to create a calming ritual."
+    "Daily Habits": {
+      "Morning Routine": "Starts the day with yoga on the beach, followed by a fresh fruit breakfast.",
+      "Nighttime Routine": "Ends the day journaling while listening to the ocean.",
+      "Signature Items": "Always carries a vintage camera and a shell bracelet she made herself."
     },
-    "biographyStatement": "Hi there, beach dreamers! I’m Kiki Seabreeze, your vintage-loving, starlit-sky-gazing romantic here to help you find the beauty in every shoreline moment. Growing up near the coast, I’ve always felt the ocean holds a little magic for anyone willing to listen. Writing for Beach Fashion Magazine lets me share my love for timeless style, dreamy dates, and creating memories that feel like they belong in a love letter. Whether I’m collecting shells or penning my next story, I believe life is best lived with a little nostalgia and a lot of heart. 🌊✨"
-  }
-  
+    "Hobbies and Interests": [
+      "Collecting vintage postcards",
+      "Photography of coastal landscapes",
+      "DIY projects, like making seashell jewelry",
+      "Reading poetry and classic literature",
+      "Stargazing and learning about constellations"
+    ]
+  },
+  "Life Story": {
+    "Key Life Events": [
+      "Discovering her love for marine life after rescuing a stranded sea turtle at age 12.",
+      "Winning a local photography contest with her image of a sunrise over the ocean.",
+      "Volunteering at a sea turtle conservation program, solidifying her passion for marine biology."
+    ],
+    "Biggest Influence": "Her grandmother, who taught her to appreciate the beauty of the ocean and cherish small moments.",
+    "Proudest Moment": "Photographing a rare dolphin pod and having her photo featured in a nature magazine.",
+    "Favorite Beach Memory": "Camping on the beach with friends, sharing stories around a bonfire under the stars.",
+    "Embarrassing Memory": "Accidentally slipping on a rock while taking a photo and landing in a tide pool, but laughing it off."
+  },
+  "Aspirations": {
+    "Dream Job": "Marine biologist who combines photography to document and protect marine ecosystems.",
+    "Bucket List Goals": [
+      "Dive with manta rays in the Maldives.",
+      "Publish a coffee table book of her ocean photography.",
+      "Open a marine education center for kids."
+    ],
+    "Personal Development Goals": "Learn to be more assertive and embrace spontaneity."
+  },
+  "Relationships": {
+    "Family Dynamics": "Close to her family, especially her grandmother, who inspires her love of the sea.",
+    "Romantic Style": "A dreamy romantic who values emotional connection and shared adventures.",
+    "Mentorship": "Enjoys teaching kids about marine life through photography workshops."
+  },
+  "Quirks and Preferences": {
+    "Unique Habits": "Names her favorite constellations as if they were old friends.",
+    "Superstitions": "Believes that finding a starfish is a sign of good luck.",
+    "Fandoms": "Loves Pixar movies, especially *Finding Nemo* and *Luca*.",
+    "Favorite Weather": "Sunny mornings with a light breeze, perfect for a beach walk.",
+    "Preferred Aesthetic": "Coastal vintage with touches of boho flair."
+  },
+  "Challenges and Weaknesses": {
+    "Biggest Fear": "Losing her connection to the ocean.",
+    "Hardest Lesson Learned": "Accepting that she can’t always save everything or everyone.",
+    "Personal Flaws": "Tends to avoid conflict and struggles to say no."
+  },
+  "Political Affiliation": {
+    "Affiliation": "Environmentalist Independent",
+    "Positions": {
+      "Environmental Policy": "Strong advocate for marine conservation and reducing single-use plastics.",
+      "Social Equality": "Supports initiatives to make science and education accessible to underrepresented communities.",
+      "Education": "Believes in hands-on, experiential learning, particularly in environmental sciences.",
+      "Healthcare": "Favors mental health support for those in coastal communities affected by climate change.",
+      "Economic Policy": "Encourages eco-tourism and sustainable small businesses.",
+      "Climate Change": "Views addressing ocean warming and pollution as urgent global priorities."
+    }
+  },
+  "Alignments": {
+    "Harry Potter House": "Hufflepuff",
+    "Game of Thrones House": "House Tully",
+    "Percy Jackson Cabin": "Poseidon (Sea and Water)",
+    "Divergent Faction": "Amity (Peace and Harmony)",
+    "Avatar Nation": "Water Tribe",
+    "Witcher School": "Griffin (Knowledge and Strategy)",
+    "Hunger Games District": "District 4 (Fishing and Ocean)",
+    "Stormlight Radiant Order": "Edgedancers (Compassion and Healing)",
+    "Dungeons and Dragons Alignment": "Neutral Good",
+    "Star Wars Alignment": "Rebel Alliance",
+    "Lord of the Rings Race": "Hobbit (Simple and Peaceful)",
+    "Wheel of Time Ajah": "Green Ajah (Preparedness for Battle)"
+  },
+  "Pets": [
+    {
+      "Type": "Parrot",
+      "Name": "Skye",
+      "Description": "A vibrant blue and green parrot who loves mimicking ocean sounds."
+    }
+  ],
+  "Role Model": "Sylvia Earle, for her groundbreaking work in marine conservation.",
+  "Statement": "Hi there, beach dreamers! I’m Kiki Seabreeze, your vintage-loving, starlit-sky-gazing romantic here to help you find the beauty in every shoreline moment. Growing up near the coast, I’ve always felt the ocean holds a little magic for anyone willing to listen. Writing for Beach Fashion Magazine lets me share my love for timeless style, dreamy dates, and creating memories that feel like they belong in a love letter. 🌊✨"
+}

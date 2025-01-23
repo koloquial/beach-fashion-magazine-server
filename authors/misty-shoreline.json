@@ -1,43 +1,183 @@
 {
-    "name": "Misty Shoreline",
-    "profile": "/images/authors/misty-shoreline.webp",
-    "personalDetails": {
-      "birthdate": "November 12, 2004",
-      "age": 20
+  "Identity": {
+    "Name": "Misty Shoreline",
+    "Profile Picture": "/images/authors/misty-shoreline.webp",
+    "Gender": "Female",
+    "Pronouns": "She/Her",
+    "Sexuality": "Demisexual",
+    "Age": 20,
+    "Birthdate": "November 12, 2004",
+    "Hometown": "Cannon Beach, Oregon",
+    "Relationship Status": "Single",
+    "Myers-Briggs Type Indicator": "INFP - The Mediator",
+    "Astrological Signs": {
+      "Sun Sign": "Scorpio",
+      "Moon Sign": "Pisces",
+      "Rising Sign": "Capricorn",
+      "Mercury Sign": "Sagittarius",
+      "Venus Sign": "Scorpio",
+      "Mars Sign": "Aquarius",
+      "Chinese Zodiac": "Monkey",
+      "Optional Additions": {
+        "Jupiter Sign": "Libra",
+        "Saturn Sign": "Taurus",
+        "Uranus Sign": "Aquarius",
+        "Neptune Sign": "Pisces",
+        "Pluto Sign": "Sagittarius"
+      }
+    }
+  },
+  "Background": {
+    "Education": "Associate Degree in Creative Writing",
+    "College": "Community College of Oregon",
+    "Past Jobs": [
+      "Bookseller at an independent bookstore",
+      "Volunteer at a local beach cleanup organization",
+      "Assistant for a local poet’s workshop"
+    ]
+  },
+  "Favorites": {
+    "Food": "Freshly baked coconut macaroons with a drizzle of dark chocolate",
+    "Drink": "Earl Grey tea with lavender",
+    "Dessert": "Blueberry crumble with a hint of lemon zest",
+    "Music": [
+      "Aurora - 'All My Demons Greeting Me as a Friend' (2016)",
+      "Sigur Rós - 'Takk...' (2005)",
+      "Florence + The Machine - 'Lungs' (2009)",
+      "London Grammar - 'If You Wait' (2013)",
+      "Bon Iver - 'For Emma, Forever Ago' (2007)"
+    ],
+    "Movies": [
+      "'The Piano' (1993)",
+      "'The Village' (2004)",
+      "'Eternal Sunshine of the Spotless Mind' (2004)",
+      "'Whale Rider' (2002)",
+      "'The Shape of Water' (2017)"
+    ],
+    "Books": [
+      "'The Ocean at the End of the Lane' by Neil Gaiman",
+      "'The Bell Jar' by Sylvia Plath",
+      "'Bluets' by Maggie Nelson",
+      "'Rebecca' by Daphne du Maurier",
+      "'The Book Thief' by Markus Zusak"
+    ],
+    "Beach Accessory": "A leather-bound journal for capturing her thoughts and sketches of the ocean",
+    "Color": {
+      "Description": "Soft, misty gray like the morning fog over the ocean",
+      "Hex Code": "#A9A9A9"
+    }
+  },
+  "Personality Overview": {
+    "Communication Style": {
+      "Verbal Expression": "Quiet and introspective, often choosing her words carefully.",
+      "Body Language": "Subtle and calm, with a tendency to avoid the spotlight.",
+      "Listening Style": "Deeply attentive, always offering thoughtful responses."
     },
-    "favorites": {
-      "food": "Freshly baked coconut macaroons with a drizzle of dark chocolate",
-      "beachAccessory": "A leather-bound journal for capturing her thoughts and sketches of the ocean"
+    "Behavioral Traits": {
+      "Decision-Making": "Guided by intuition and emotion, often leaning toward the creative path.",
+      "Work Ethic": "Dedicated and introspective, thrives in independent settings.",
+      "Problem-Solving": "Analytical yet imaginative, often finding unique solutions.",
+      "Conflict Style": "Prefers to avoid conflict but seeks resolution when necessary."
     },
-    "likesDislikes": {
-      "likes": [
-        "Quiet, moonlit walks on the beach",
-        "Collecting sea glass in soft pastel hues",
-        "Writing poetry inspired by the waves",
-        "Discovering hidden tide pools"
-      ],
-      "dislikes": [
-        "Loud, overcrowded beaches",
-        "People who don’t respect the ocean’s beauty",
-        "Over-commercialized beachwear trends",
-        "Disruptions to her peaceful moments by the shore"
-      ]
+    "Emotional Tendencies": {
+      "Emotional Strengths": "Deeply empathetic and understanding, often comforting those around her.",
+      "Emotional Challenges": "Can be overwhelmed by her own depth of feeling.",
+      "Comfort Zones": "Finds solace in quiet, natural settings, especially near the sea."
     },
-    "turnOnsTurnOffs": {
-      "turnOns": [
-        "A deep appreciation for nature’s beauty",
-        "Gentle, thoughtful conversations",
-        "Someone who enjoys stargazing and quiet moments"
-      ],
-      "turnOffs": [
-        "Rushing through life without savoring its details",
-        "Littering or being careless with the environment",
-        "A lack of curiosity or imagination"
-      ]
+    "Values and Beliefs": {
+      "Ethics": "Firmly rooted in honesty, kindness, and respecting the environment.",
+      "Life Philosophy": "The beauty of life lies in its small, fleeting moments.",
+      "Worldview": "Romantic and reflective, seeing the world through a poetic lens."
+    }
+  },
+  "Social and Lifestyle": {
+    "Social Preferences": {
+      "Friendship Style": "Supportive and nurturing, often the friend who remembers the little things.",
+      "Preferred Social Settings": "One-on-one conversations in peaceful environments.",
+      "Role in Groups": "The quiet observer who offers meaningful insights."
     },
-    "horoscope": {
-      "sign": "Scorpio"
+    "Daily Habits": {
+      "Morning Routine": "Starts her day with tea, journaling, and a walk along the shoreline.",
+      "Nighttime Routine": "Reads poetry by candlelight before bed.",
+      "Signature Items": "A leather-bound journal and a fountain pen."
     },
-    "biographyStatement": "Hello, kindred spirits! I’m Misty Shoreline, the dreamy, ocean-loving soul behind some of Beach Fashion Magazine’s most reflective and poetic pieces. The ocean has always been my sanctuary, inspiring everything from my wardrobe to my writing. I believe in finding beauty in the smallest details—a perfectly worn shell, the sound of waves lapping at night, or the colors of the sunset dancing on the horizon. Writing is my way of capturing the magic I see and sharing it with you. Let’s wander the shoreline together and uncover life’s quiet wonders. 🌊✨"
-  }
-  
+    "Hobbies and Interests": [
+      "Writing poetry inspired by the ocean",
+      "Collecting sea glass in soft pastel hues",
+      "Sketching tide pools and ocean waves",
+      "Reading gothic and romantic literature",
+      "Exploring hidden coves and beaches"
+    ]
+  },
+  "Life Story": {
+    "Key Life Events": [
+      "Writing her first poem about the ocean at age 8, igniting her passion for words.",
+      "Winning a local poetry contest in high school, boosting her confidence as a writer.",
+      "Spending a summer volunteering at a beach cleanup project that inspired her environmental activism."
+    ],
+    "Biggest Influence": "Her mother, who introduced her to classic literature and the beauty of nature.",
+    "Proudest Moment": "Having her first poem published in a regional literary magazine.",
+    "Favorite Beach Memory": "Discovering a hidden tide pool filled with starfish and sea anemones during a solo walk.",
+    "Embarrassing Memory": "Accidentally dropping her journal into the ocean and scrambling to retrieve it."
+  },
+  "Aspirations": {
+    "Dream Job": "Published poet and environmental advocate whose work inspires change.",
+    "Bucket List Goals": [
+      "Visit the Faroe Islands and write poetry inspired by the landscape.",
+      "Publish a book of ocean-themed poetry.",
+      "Create a community project to clean and preserve local beaches."
+    ],
+    "Personal Development Goals": "Learn to embrace vulnerability and share her work more confidently."
+  },
+  "Relationships": {
+    "Family Dynamics": "Close to her mother, who shares her love for literature and quiet reflection.",
+    "Romantic Style": "Deeply emotional and selective, seeking someone who appreciates her introspection.",
+    "Mentorship": "Enjoys mentoring young poets and helping them find their voice."
+  },
+  "Quirks and Preferences": {
+    "Unique Habits": "Writes messages in bottles and leaves them for others to find.",
+    "Superstitions": "Believes that finding a perfectly unbroken shell brings good fortune.",
+    "Fandoms": "Admires works by Neil Gaiman and Tim Burton.",
+    "Favorite Weather": "Overcast skies with a gentle drizzle, perfect for introspection.",
+    "Preferred Aesthetic": "Ethereal and moody, with touches of vintage charm."
+  },
+  "Challenges and Weaknesses": {
+    "Biggest Fear": "Losing her ability to connect with her creativity.",
+    "Hardest Lesson Learned": "Learning that perfection isn’t necessary to create meaningful art.",
+    "Personal Flaws": "Can be overly self-critical, making it difficult to share her work."
+  },
+  "Political Affiliation": {
+    "Affiliation": "Environmentalist Independent",
+    "Positions": {
+      "Environmental Policy": "Strong advocate for ocean preservation and reducing pollution.",
+      "Social Equality": "Believes in equal opportunities and representation for all.",
+      "Education": "Supports increased funding for arts and creative writing programs.",
+      "Healthcare": "Favors mental health resources to support young artists.",
+      "Economic Policy": "Encourages local, sustainable industries that protect the environment.",
+      "Climate Change": "Views combating climate change as a moral and global responsibility."
+    }
+  },
+  "Alignments": {
+    "Harry Potter House": "Ravenclaw",
+    "Game of Thrones House": "House Stark",
+    "Percy Jackson Cabin": "Poseidon (Sea and Water)",
+    "Divergent Faction": "Erudite (Knowledge and Wisdom)",
+    "Avatar Nation": "Water Tribe",
+    "Witcher School": "Griffin (Knowledge and Strategy)",
+    "Hunger Games District": "District 4 (Fishing and Ocean)",
+    "Stormlight Radiant Order": "Truthwatchers (Insight and Wisdom)",
+    "Dungeons and Dragons Alignment": "Neutral Good",
+    "Star Wars Alignment": "Rebel Alliance",
+    "Lord of the Rings Race": "Elf (Grace and Intellect)",
+    "Wheel of Time Ajah": "Brown Ajah (Knowledge and Study)"
+  },
+  "Pets": [
+    {
+      "Type": "Cat",
+      "Name": "Drift",
+      "Description": "A sleek black cat with piercing green eyes, often seen curled up near Misty’s journal."
+    }
+  ],
+  "Role Model": "Mary Oliver, for her evocative poetry that captures the beauty of the natural world.",
+  "Statement": "Hello, kindred spirits! I’m Misty Shoreline, the dreamy, ocean-loving soul behind some of Beach Fashion Magazine’s most reflective and poetic pieces. The ocean has always been my sanctuary, inspiring everything from my wardrobe to my writing. I believe in finding beauty in the smallest details—a perfectly worn shell, the sound of waves lapping at night, or the colors of the sunset dancing on the horizon. 🌊✨"
+}
