@@ -17,7 +17,12 @@ app.use('/images', express.static(path.join(__dirname, 'images'))); // Serve ima
 const generateSlug = (str) => str.toLowerCase().replace(/\s+/g, '-');
 
 // Helper function to find an item by slug
-const findBySlug = (items, slug) => items.find((item) => generateSlug(item.title || item.name) === slug);
+const findBySlug = (items, slug) => {
+  return items.find((item) => {
+    const name = item.Identity?.Name || item.name; // Check for the nested structure
+    return generateSlug(name) === slug;
+  });
+};
 
 // Route: Default (browser-accessible)
 app.get('/', (req, res) => {
@@ -53,7 +58,7 @@ const handleArticleRoute = (req, res, category) => {
   res.json(article);
 };
 
-// Generic route handler for authors
+// Route: Get a specific author
 const handleAuthorRoute = (req, res) => {
   const { slug } = req.params;
   const author = findBySlug(authors, slug);
@@ -75,6 +80,9 @@ app.get('/authors', (req, res) => {
   res.json(authors);
 });
 
+// Route: Get a specific author by slug
+app.get('/authors/:slug', handleAuthorRoute);
+
 // Dynamic article category routes
 const categories = [
   'music',
@@ -95,11 +103,7 @@ categories.forEach((category) => {
   app.get(`/${category}/:slug`, (req, res) => handleArticleRoute(req, res, category));
 });
 
-// Route: Get a specific author
-app.get('/authors/:slug', handleAuthorRoute);
-
 // // Start the Express server
-
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
