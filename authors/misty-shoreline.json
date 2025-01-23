@@ -139,7 +139,21 @@
     "Superstitions": "Believes that finding a perfectly unbroken shell brings good fortune.",
     "Fandoms": "Admires works by Neil Gaiman and Tim Burton.",
     "Favorite Weather": "Overcast skies with a gentle drizzle, perfect for introspection.",
-    "Preferred Aesthetic": "Ethereal and moody, with touches of vintage charm."
+    "Preferred Aesthetic": "Ethereal and moody, with touches of vintage charm.",
+    "Turn Ons": [
+      "A deep appreciation for mystery and exploration.",
+      "Thoughtful, introspective conversations.",
+      "A sense of wonder and curiosity about the unknown.",
+      "Respect for solitude and quiet moments.",
+      "People who value emotional intelligence and authenticity."
+    ],
+    "Turn Offs": [
+      "Overly aggressive or confrontational behavior.",
+      "Dismissive attitudes toward creative or abstract ideas.",
+      "A lack of respect for boundaries or personal space.",
+      "Indifference to self-reflection or personal growth.",
+      "Neglect of details or subtle gestures."
+    ]
   },
   "Challenges and Weaknesses": {
     "Biggest Fear": "Losing her ability to connect with her creativity.",

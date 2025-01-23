@@ -134,13 +134,27 @@
     "Romantic Style": "A dreamy romantic who values emotional connection and shared adventures.",
     "Mentorship": "Enjoys teaching kids about marine life through photography workshops."
   },
-  "Quirks and Preferences": {
-    "Unique Habits": "Names her favorite constellations as if they were old friends.",
-    "Superstitions": "Believes that finding a starfish is a sign of good luck.",
-    "Fandoms": "Loves Pixar movies, especially *Finding Nemo* and *Luca*.",
-    "Favorite Weather": "Sunny mornings with a light breeze, perfect for a beach walk.",
-    "Preferred Aesthetic": "Coastal vintage with touches of boho flair."
-  },
+    "Quirks and Preferences": {
+      "Unique Habits": "Names her favorite constellations as if they were old friends.",
+      "Superstitions": "Believes that finding a starfish is a sign of good luck.",
+      "Fandoms": "Loves Pixar movies, especially *Finding Nemo* and *Luca*.",
+      "Favorite Weather": "Sunny mornings with a light breeze, perfect for a beach walk.",
+      "Preferred Aesthetic": "Coastal vintage with touches of boho flair.",
+      "Turn Ons": [
+        "A love for the ocean and coastal adventures.",
+        "Creative minds who enjoy art, photography, or writing.",
+        "Thoughtfulness and small gestures of kindness.",
+        "A good sense of humor and a positive outlook.",
+        "Respect for nature and environmental consciousness."
+      ],
+      "Turn Offs": [
+        "Disrespect for the environment or marine life.",
+        "Negativity and unnecessary conflict.",
+        "Dishonesty or lack of transparency.",
+        "Indifference to shared values or interests.",
+        "Excessive materialism or consumerism."
+      ]
+    },  
   "Challenges and Weaknesses": {
     "Biggest Fear": "Losing her connection to the ocean.",
     "Hardest Lesson Learned": "Accepting that she can’t always save everything or everyone.",
